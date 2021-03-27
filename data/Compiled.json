@@ -48,6 +48,57 @@
             ]
         },
         {
+            "URLReference": "bristol",
+            "PrimaryName": "Bristol",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Bristol"
+                }
+            ],
+            "Description": "<p>from Old English <oe>Brycgstow</oe>, meaning 'place at the bridge'</p>",
+            "Timeline": [
+                {
+                    "Year": "2000",
+                    "Text": "Bristol",
+                    "Where": ""
+                }
+            ]
+        },
+        {
+            "URLReference": "edinburgh",
+            "PrimaryName": "Edinburgh",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Edinburgh"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Scots",
+                        "Abbreviation": "MS"
+                    },
+                    "Text": "Edinburgh"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Scottish Gaelic",
+                        "Abbreviation": "MSG"
+                    },
+                    "Text": "D\u00f9n \u00c8ideann"
+                }
+            ],
+            "Description": "<p>from Cumbric <cumbric>Eidyn</cumbric>, of unknown meaning, and Old English <oe>burh</oe>, meaning 'fortified settlement'</p>",
+            "Timeline": [],
+            "Demonym": "Edinburgher"
+        },
+        {
             "URLReference": "glasgow",
             "PrimaryName": "Glasgow",
             "Names": [
@@ -120,6 +171,37 @@
                 {
                     "Year": "2000",
                     "Text": "Leeds",
+                    "Where": ""
+                }
+            ]
+        },
+        {
+            "URLReference": "liverpool",
+            "PrimaryName": "Liverpool",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Liverpool"
+                }
+            ],
+            "Description": "<p>from Old English <oe>lifer</oe> meaning 'thick water' or 'muddy water', and <oe>p\u014dl</oe> meaning 'pool' or 'creek'</p>",
+            "Timeline": [
+                {
+                    "Year": "1190",
+                    "Text": "Liuerpul",
+                    "Where": ""
+                },
+                {
+                    "Year": "1418",
+                    "Text": "Leyrpole",
+                    "Where": ""
+                },
+                {
+                    "Year": "2000",
+                    "Text": "Liverpool",
                     "Where": ""
                 }
             ]
