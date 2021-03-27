@@ -1,0 +1,9 @@
+<input type="text" placeholder="Search ..." ng-model="searchterms" class="searchbox" />
+<div class="searchresults">
+    <div ng-repeat="place in places" class="place">
+        <div class="place-primaryname">
+            {{place.PrimaryName}}
+        </div>
+        <div class="place-description" compile="place.Description"></div>
+    </div>
+</div>

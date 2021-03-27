@@ -99,6 +99,9 @@ class Compiler(object):
         with open("../data/Compiled.json", "w", encoding="utf-8") as fileObject:
             json.dump(data, fileObject, indent=4)
 
+        with open("../web/places.json", "w", encoding="utf-8") as fileObject:
+            json.dump(data, fileObject, indent=4)
+
 if __name__ == "__main__":
     compiler = Compiler()
 

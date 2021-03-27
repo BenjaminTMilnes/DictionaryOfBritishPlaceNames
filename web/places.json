@@ -1,0 +1,255 @@
+{
+    "Places": [
+        {
+            "URLReference": "birmingham",
+            "PrimaryName": "Birmingham",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Birmingham"
+                }
+            ],
+            "Description": "<p>from Old English <oe>Beormingah\u0101m</oe>, meaning the home or settlement of the <oe>Beormingas</oe> \u2013 a clan whose name literally means 'Beorma's people'</p>",
+            "Timeline": [
+                {
+                    "Year": "~600s",
+                    "Text": "Beormingah\u0101m",
+                    "Where": ""
+                },
+                {
+                    "Year": "2000",
+                    "Text": "Birmingham",
+                    "Where": ""
+                }
+            ]
+        },
+        {
+            "URLReference": "bradford",
+            "PrimaryName": "Bradford",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Bradford"
+                }
+            ],
+            "Description": "",
+            "Timeline": [
+                {
+                    "Year": "2000",
+                    "Text": "Bradford",
+                    "Where": ""
+                }
+            ]
+        },
+        {
+            "URLReference": "bristol",
+            "PrimaryName": "Bristol",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Bristol"
+                }
+            ],
+            "Description": "<p>from Old English <oe>Brycgstow</oe>, meaning 'place at the bridge'</p>",
+            "Timeline": [
+                {
+                    "Year": "2000",
+                    "Text": "Bristol",
+                    "Where": ""
+                }
+            ]
+        },
+        {
+            "URLReference": "edinburgh",
+            "PrimaryName": "Edinburgh",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Edinburgh"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Scots",
+                        "Abbreviation": "MS"
+                    },
+                    "Text": "Edinburgh"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Scottish Gaelic",
+                        "Abbreviation": "MSG"
+                    },
+                    "Text": "D\u00f9n \u00c8ideann"
+                }
+            ],
+            "Description": "<p>from Cumbric <cumbric>Eidyn</cumbric>, of unknown meaning, and Old English <oe>burh</oe>, meaning 'fortified settlement'</p>",
+            "Timeline": [],
+            "Demonym": "Edinburgher"
+        },
+        {
+            "URLReference": "glasgow",
+            "PrimaryName": "Glasgow",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Glasgow"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Scots",
+                        "Abbreviation": "MS"
+                    },
+                    "Text": "Glesca, Glesga"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Scottish Gaelic",
+                        "Abbreviation": "MSG"
+                    },
+                    "Text": "Glaschu"
+                }
+            ],
+            "Description": "<p>from Brittonic <ob>glas</ob> meaning 'grey-green', 'grey-blue' and <ob>*c\u00f6\u00fc</ob> meaning 'hollow', so the name means 'green-hollow'</p>",
+            "Timeline": [
+                {
+                    "Year": "1116",
+                    "Text": "Glasgu",
+                    "Where": ""
+                },
+                {
+                    "Year": "2000",
+                    "Text": "Glasgow",
+                    "Where": ""
+                }
+            ],
+            "Demonym": "Glaswegian"
+        },
+        {
+            "URLReference": "leeds",
+            "PrimaryName": "Leeds",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Leeds"
+                }
+            ],
+            "Description": "",
+            "Timeline": [
+                {
+                    "Year": "731",
+                    "Text": "Loidis",
+                    "Where": "The Ecclesiastical History of the English People by Bede"
+                },
+                {
+                    "Year": "1086",
+                    "Text": "Ledes",
+                    "Where": "Domesday Book"
+                },
+                {
+                    "Year": "1725",
+                    "Text": "Leedes",
+                    "Where": "a map by John Cossins"
+                },
+                {
+                    "Year": "2000",
+                    "Text": "Leeds",
+                    "Where": ""
+                }
+            ]
+        },
+        {
+            "URLReference": "liverpool",
+            "PrimaryName": "Liverpool",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Liverpool"
+                }
+            ],
+            "Description": "<p>from Old English <oe>lifer</oe> meaning 'thick water' or 'muddy water', and <oe>p\u014dl</oe> meaning 'pool' or 'creek'</p>",
+            "Timeline": [
+                {
+                    "Year": "1190",
+                    "Text": "Liuerpul",
+                    "Where": ""
+                },
+                {
+                    "Year": "1418",
+                    "Text": "Leyrpole",
+                    "Where": ""
+                },
+                {
+                    "Year": "2000",
+                    "Text": "Liverpool",
+                    "Where": ""
+                }
+            ]
+        },
+        {
+            "URLReference": "manchester",
+            "PrimaryName": "Manchester",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Manchester"
+                },
+                {
+                    "Language": {
+                        "Name": "Latin",
+                        "Abbreviation": "L"
+                    },
+                    "Text": "Mamucium, Mancunio"
+                }
+            ],
+            "Description": "<p>from Brittonic <ob>*mamm-</ob> meaning 'breast', in reference to a 'breast-like hill', and Old English <oe>-ceaster</oe>, meaning 'fort', 'fortified town'</p>",
+            "Timeline": [],
+            "Demonym": "Mancunian"
+        },
+        {
+            "URLReference": "sheffield",
+            "PrimaryName": "Sheffield",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Sheffield"
+                }
+            ],
+            "Description": "",
+            "Timeline": [
+                {
+                    "Year": "2000",
+                    "Text": "Sheffield",
+                    "Where": ""
+                }
+            ],
+            "Demonym": "Sheffielder"
+        }
+    ]
+}
