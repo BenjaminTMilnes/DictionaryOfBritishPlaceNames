@@ -83,10 +83,10 @@ application.filter("searchPlaces", function () {
             places.forEach(place => {
 
                 if (text != "") {
-                    if (stringContains(place.PrimaryName, text.toLowerCase())) {
+                    if (stringContains(place.PrimaryName.toLowerCase(), text.toLowerCase())) {
                         matchingPlaces.push(place);
                     }
-                    else if (stringContains(place.Description, text.toLowerCase())) {
+                    else if (stringContains(place.Description.toLowerCase(), text.toLowerCase())) {
                         matchingPlaces.push(place);
                     }
                 }

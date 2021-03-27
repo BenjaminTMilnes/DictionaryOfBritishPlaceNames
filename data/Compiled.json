@@ -69,6 +69,29 @@
             ]
         },
         {
+            "URLReference": "cardiff",
+            "PrimaryName": "Cardiff",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Cardiff"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Welsh",
+                        "Abbreviation": "MW"
+                    },
+                    "Text": "Caerdydd"
+                }
+            ],
+            "Description": "<p>MidW: Caerdyf</p><p>from Welsh <welsh>caer</welsh> meaning 'fort', and <welsh>-dyf</welsh> - a form of <welsh>Taf</welsh>, the name of the river that flows by Cardiff Castle</p>",
+            "Timeline": [],
+            "Demonym": "Cardiffian"
+        },
+        {
             "URLReference": "edinburgh",
             "PrimaryName": "Edinburgh",
             "Names": [
@@ -172,6 +195,44 @@
                     "Year": "2000",
                     "Text": "Leeds",
                     "Where": ""
+                }
+            ]
+        },
+        {
+            "URLReference": "leicester",
+            "PrimaryName": "Leicester",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Leicester"
+                },
+                {
+                    "Language": {
+                        "Name": "Latin",
+                        "Abbreviation": "L"
+                    },
+                    "Text": "Legorensis civitatis"
+                }
+            ],
+            "Description": "<p>from ligore, the name of a people, who were themselves named after the River Ligor (now the River Soar), and Old English <oe>ceaster</oe>, meaning 'fort', 'fortified town'</p>",
+            "Timeline": [
+                {
+                    "Year": "~800s",
+                    "Text": "Legorensis civitatis",
+                    "Where": ""
+                },
+                {
+                    "Year": "924",
+                    "Text": "Ligera ceastre",
+                    "Where": "The Anglo-Saxon Chronicle"
+                },
+                {
+                    "Year": "1086",
+                    "Text": "Ledecestre",
+                    "Where": "Domesday Book"
                 }
             ]
         },
