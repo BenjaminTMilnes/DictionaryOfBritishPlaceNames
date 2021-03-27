@@ -1,9 +1,27 @@
-<input type="text" placeholder="Search ..." ng-model="searchterms" class="searchbox" />
-<div class="searchresults">
-    <div ng-repeat="place in places" class="place">
-        <div class="place-primaryname">
-            {{place.PrimaryName}}
+<div class="search">
+    <div class="search-textbox">
+        <input type="text" ng-model="searchTerms" placeholder="Search ..." />
+    </div>
+    <div class="search-results-pagenumbers">
+        <div class="pagenumber pagenumber-unselected" ng-click="setPageNumber(pageNumber - 1)">&larr;</div>
+        <div class="pagenumber {{page.class}}" ng-repeat="page in pages" ng-click="setPageNumber(page.pageNumber)">{{(page.pageNumber == -1) ? "..." : page.pageNumber}}</div>
+        <div class="pagenumber pagenumber-unselected" ng-click="setPageNumber(pageNumber + 1)">&rarr;</div>
+    </div>
+    <div class="search-results">
+        <div class="search-results-leftcolumn">
+            <div class="search-place" ng-repeat="entry in currentPageSearchResults">
+                
+                <div class="search-place-primaryname">
+                    {{entry.PrimaryName}}
+                </div>
+                <div class="search-place-description" compile="entry.Description"></div>            
+             
+            </div>
         </div>
-        <div class="place-description" compile="place.Description"></div>
+    </div>
+    <div class="search-results-pagenumbers">
+        <div class="pagenumber pagenumber-unselected" ng-click="setPageNumber(pageNumber - 1)">&larr;</div>
+        <div class="pagenumber {{page.class}}" ng-repeat="page in pages" ng-click="setPageNumber(page.pageNumber)">{{(page.pageNumber == -1) ? "..." : page.pageNumber}}</div>
+        <div class="pagenumber pagenumber-unselected" ng-click="setPageNumber(pageNumber + 1)">&rarr;</div>
     </div>
 </div>

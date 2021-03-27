@@ -91,6 +91,8 @@ a:hover {
 @media (min-width: 400px) {
     h1 {
         font-size: 22px;
+        margin: 0px 0px 22px 0px;
+        text-align: left;
     }
     h2 {
         font-size: 40px;
@@ -166,27 +168,4 @@ a:hover {
     .website-card p {
         font-size: 17px;
     }
-}
-
-.searchbox {
-    font-size: 2.5em;
-    width: 100%;
-    box-sizing: border-box;
-    margin: 1em 0em;
-    text-align:center;
-    padding: 0.25em;
-    border: 1px solid #C0C0C0;
-    border-radius:2px;
-}
-
-.searchresults {
-    max-width: 40em;
-}
-
-.place {
-    margin-bottom: 3em;
-}
-
-.place-primaryname {
-    font-size:2.5em;
 }
