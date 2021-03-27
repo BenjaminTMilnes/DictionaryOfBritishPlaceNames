@@ -79,6 +79,10 @@ h1, h2, h3, p, ul {
     margin: 20px 0px;
 }
 
+b {
+    font-weight: normal;
+}
+
 a {
     color: #105ecc;
     text-decoration: none;
