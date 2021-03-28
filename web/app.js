@@ -12,7 +12,8 @@ var application = angular.module("DictionaryOfBritishPlaceNames", ["ngRoute", "n
 
 application.config(function ($routeProvider) {
     $routeProvider
-        .when("/", { templateUrl: "search.html", controller: "SearchController" });
+        .when("/", { templateUrl: "search.html", controller: "SearchController" })
+        .when("/place/:reference", { templateUrl: "place.html", controller: "PlaceController" });
 });
 
 application.directive("compile", ["$compile", function ($compile) {
@@ -164,6 +165,15 @@ application.controller("SearchController", ["$scope", "dataService", "$location"
 
     $scope.$watch("searchTerms", function (newValue, oldValue) {
         $scope.updateSearchResults(newValue);
+    });
+
+}]);
+
+application.controller("PlaceController", ["$scope", "dataService", "$routeParams", "$location", "$filter", function PlaceController($scope, dataService, $routeParams, $location, $filter) {
+    
+    dataService.getData().then(function (data) {
+        $scope.places = data.Places;
+        $scope.place = $scope.places.filter(p => p.URLReference == $routeParams.reference)[0];
     });
 
 }]);

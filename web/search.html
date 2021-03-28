@@ -16,7 +16,7 @@
             <div class="search-place" ng-repeat="entry in currentPageSearchResults">
                 
                 <div class="search-place-primaryname">
-                    {{entry.PrimaryName}}
+                    <a href="#/place/{{entry.URLReference}}" title="{{entry.PrimaryName}}">{{entry.PrimaryName}}</a>
                 </div>
                 <div class="search-place-description" compile="entry.Description"></div>            
              

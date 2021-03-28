@@ -1,6 +1,7 @@
 import os 
 import json 
 import re 
+import datetime
 
 
 class Compiler(object):
@@ -45,6 +46,7 @@ class Compiler(object):
             place["Names"] = []
             place["Description"] = ""
             place["Timeline"] = []
+            place["References"] = []
 
             section = "names"
 
@@ -81,7 +83,18 @@ class Compiler(object):
 
                     place["Timeline"].append({"Year": m.group(1), "Text": m.group(2), "Where": where})
 
+                if section == "references":
 
+                    m1 = re.match(r"(\d+)\.\s+(http[^\s]+)\s+\(accessed: (\d{4}\.\d{2}\.\d{2})\)\s*", line)
+
+                    if m1:
+                        reference = {}
+
+                        reference["Type"] = "website"
+                        reference["URL"] = m1.group(2)
+                        reference["AccessedOn"] = m1.group(3)
+
+                        place["References"].append(reference)
 
             return place 
 

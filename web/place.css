@@ -1,0 +1,28 @@
+
+.place-timeline {
+    border-collapse: collapse;
+    cursor: default;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.place-timeline tr {
+    border-top: 1px solid #E0E0E0;
+}
+
+.place-timeline tr:hover {
+    background-color: #F0F0F0;
+    border-top: 1px solid #D0D0D0;
+}
+
+.place-timeline th {
+    font-weight: normal;
+    text-align: left;
+    padding: 0.5em 1em;
+}
+
+.place-timeline td {
+    text-align: left;
+    min-width: 5em;
+    padding: 0.5em 1em;
+}

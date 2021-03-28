@@ -24,6 +24,13 @@
                     "Text": "Birmingham",
                     "Where": ""
                 }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Birmingham",
+                    "AccessedOn": "2021.03.27"
+                }
             ]
         },
         {
@@ -45,7 +52,8 @@
                     "Text": "Bradford",
                     "Where": ""
                 }
-            ]
+            ],
+            "References": []
         },
         {
             "URLReference": "bristol",
@@ -65,6 +73,13 @@
                     "Year": "2000",
                     "Text": "Bristol",
                     "Where": ""
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Bristol",
+                    "AccessedOn": "2021.03.27"
                 }
             ]
         },
@@ -89,7 +104,43 @@
             ],
             "Description": "<p>MidW: Caerdyf</p><p>from Welsh <welsh>caer</welsh> meaning 'fort', and <welsh>-dyf</welsh> - a form of <welsh>Taf</welsh>, the name of the river that flows by Cardiff Castle</p>",
             "Timeline": [],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Cardiff",
+                    "AccessedOn": "2021.03.27"
+                }
+            ],
             "Demonym": "Cardiffian"
+        },
+        {
+            "URLReference": "coventry",
+            "PrimaryName": "Coventry",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Coventry"
+                }
+            ],
+            "Description": "<p>there are several theories as to what the name means; it's thought that the most likely meaning is 'Coffa's tree' - a tree planted by or named after a person called 'Coffa', which may have marked the centre or boundary of a settlement</p><p>an alternative theory is that the name comes from 'Coventre' - from coven, an old variation of 'convent', and tre, a Celtic word meaning 'town'</p>",
+            "Timeline": [
+                {
+                    "Year": "2000",
+                    "Text": "Coventry",
+                    "Where": ""
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/History_of_Coventry",
+                    "AccessedOn": "2021.03.28"
+                }
+            ],
+            "Demonym": "Coventrian"
         },
         {
             "URLReference": "edinburgh",
@@ -119,6 +170,13 @@
             ],
             "Description": "<p>from Cumbric <cumbric>Eidyn</cumbric>, of unknown meaning, and Old English <oe>burh</oe>, meaning 'fortified settlement'</p>",
             "Timeline": [],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Edinburgh",
+                    "AccessedOn": "2021.03.27"
+                }
+            ],
             "Demonym": "Edinburgher"
         },
         {
@@ -160,6 +218,13 @@
                     "Where": ""
                 }
             ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Glasgow",
+                    "AccessedOn": "2021.03.27"
+                }
+            ],
             "Demonym": "Glaswegian"
         },
         {
@@ -195,6 +260,13 @@
                     "Year": "2000",
                     "Text": "Leeds",
                     "Where": ""
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/History_of_Leeds",
+                    "AccessedOn": "2021.03.27"
                 }
             ]
         },
@@ -234,6 +306,13 @@
                     "Text": "Ledecestre",
                     "Where": "Domesday Book"
                 }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Leicester",
+                    "AccessedOn": "2021.03.27"
+                }
             ]
         },
         {
@@ -265,6 +344,13 @@
                     "Text": "Liverpool",
                     "Where": ""
                 }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Liverpool",
+                    "AccessedOn": "2021.03.27"
+                }
             ]
         },
         {
@@ -288,7 +374,76 @@
             ],
             "Description": "<p>from Brittonic <ob>*mamm-</ob> meaning 'breast', in reference to a 'breast-like hill', and Old English <oe>-ceaster</oe>, meaning 'fort', 'fortified town'</p>",
             "Timeline": [],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Manchester",
+                    "AccessedOn": "2021.03.27"
+                }
+            ],
             "Demonym": "Mancunian"
+        },
+        {
+            "URLReference": "nottingham",
+            "PrimaryName": "Nottingham",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Nottingham"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Welsh",
+                        "Abbreviation": "MW"
+                    },
+                    "Text": "Y T\u0177 Ogofog"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Irish",
+                        "Abbreviation": "MI"
+                    },
+                    "Text": "Na Tithe Uaimh"
+                }
+            ],
+            "Description": "<p>from Snotingaham, meaning the home or settlement of the Snotingas - a clan whose name literally means 'Snot's people'</p>",
+            "Timeline": [
+                {
+                    "Year": "~800s",
+                    "Text": "Tig Guocobauc",
+                    "Where": ""
+                },
+                {
+                    "Year": "868",
+                    "Text": "Snotengaham",
+                    "Where": "The Anglo-Saxon Chronicle"
+                },
+                {
+                    "Year": "1086",
+                    "Text": "Snotingeham",
+                    "Where": "Domesday Book"
+                },
+                {
+                    "Year": "1086",
+                    "Text": "Snotingham",
+                    "Where": "Domesday Book"
+                },
+                {
+                    "Year": "2000",
+                    "Text": "Nottingham",
+                    "Where": ""
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/History_of_Nottingham",
+                    "AccessedOn": "2021.03.28"
+                }
+            ]
         },
         {
             "URLReference": "sheffield",
@@ -310,7 +465,30 @@
                     "Where": ""
                 }
             ],
+            "References": [],
             "Demonym": "Sheffielder"
+        },
+        {
+            "URLReference": "wakefield",
+            "PrimaryName": "Wakefield",
+            "Names": [
+                {
+                    "Language": {
+                        "Name": "Modern English",
+                        "Abbreviation": "ME"
+                    },
+                    "Text": "Wakefield"
+                }
+            ],
+            "Description": "",
+            "Timeline": [
+                {
+                    "Year": "2000",
+                    "Text": "Wakefield",
+                    "Where": ""
+                }
+            ],
+            "References": []
         }
     ]
 }
