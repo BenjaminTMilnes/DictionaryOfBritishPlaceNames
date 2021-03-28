@@ -15,12 +15,12 @@
             "Description": "<p>from Old English <oe>Beormingah\u0101m</oe>, meaning the home or settlement of the <oe>Beormingas</oe> \u2013 a clan whose name literally means 'Beorma's people'</p>",
             "Timeline": [
                 {
-                    "Year": "~600s",
+                    "Year": "~600s C.E.",
                     "Text": "Beormingah\u0101m",
                     "Where": ""
                 },
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Birmingham",
                     "Where": ""
                 }
@@ -48,7 +48,7 @@
             "Description": "",
             "Timeline": [
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Bradford",
                     "Where": ""
                 }
@@ -65,12 +65,19 @@
                         "Abbreviation": "ME"
                     },
                     "Text": "Bristol"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Welsh",
+                        "Abbreviation": "MW"
+                    },
+                    "Text": "Bryste"
                 }
             ],
             "Description": "<p>from Old English <oe>Brycgstow</oe>, meaning 'place at the bridge'</p>",
             "Timeline": [
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Bristol",
                     "Where": ""
                 }
@@ -128,7 +135,7 @@
             "Description": "<p>there are several theories as to what the name means; it's thought that the most likely meaning is 'Coffa's tree' - a tree planted by or named after a person called 'Coffa', which may have marked the centre or boundary of a settlement</p><p>an alternative theory is that the name comes from 'Coventre' - from coven, an old variation of 'convent', and tre, a Celtic word meaning 'town'</p>",
             "Timeline": [
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Coventry",
                     "Where": ""
                 }
@@ -166,6 +173,13 @@
                         "Abbreviation": "MSG"
                     },
                     "Text": "D\u00f9n \u00c8ideann"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Welsh",
+                        "Abbreviation": "MW"
+                    },
+                    "Text": "Caeredin"
                 }
             ],
             "Description": "<p>from Cumbric <cumbric>Eidyn</cumbric>, of unknown meaning, and Old English <oe>burh</oe>, meaning 'fortified settlement'</p>",
@@ -208,12 +222,12 @@
             "Description": "<p>from Brittonic <ob>glas</ob> meaning 'grey-green', 'grey-blue' and <ob>*c\u00f6\u00fc</ob> meaning 'hollow', so the name means 'green-hollow'</p>",
             "Timeline": [
                 {
-                    "Year": "1116",
+                    "Year": "1116 C.E.",
                     "Text": "Glasgu",
                     "Where": ""
                 },
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Glasgow",
                     "Where": ""
                 }
@@ -237,27 +251,34 @@
                         "Abbreviation": "ME"
                     },
                     "Text": "Leeds"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Welsh",
+                        "Abbreviation": "MW"
+                    },
+                    "Text": "Lloed"
                 }
             ],
             "Description": "",
             "Timeline": [
                 {
-                    "Year": "731",
+                    "Year": "731 C.E.",
                     "Text": "Loidis",
                     "Where": "The Ecclesiastical History of the English People by Bede"
                 },
                 {
-                    "Year": "1086",
+                    "Year": "1086 C.E.",
                     "Text": "Ledes",
-                    "Where": "Domesday Book"
+                    "Where": "The Domesday Book"
                 },
                 {
-                    "Year": "1725",
+                    "Year": "1725 C.E.",
                     "Text": "Leedes",
                     "Where": "a map by John Cossins"
                 },
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Leeds",
                     "Where": ""
                 }
@@ -283,6 +304,13 @@
                 },
                 {
                     "Language": {
+                        "Name": "Modern Welsh",
+                        "Abbreviation": "MW"
+                    },
+                    "Text": "Caerl\u0177r"
+                },
+                {
+                    "Language": {
                         "Name": "Latin",
                         "Abbreviation": "L"
                     },
@@ -292,19 +320,24 @@
             "Description": "<p>from ligore, the name of a people, who were themselves named after the River Ligor (now the River Soar), and Old English <oe>ceaster</oe>, meaning 'fort', 'fortified town'</p>",
             "Timeline": [
                 {
-                    "Year": "~800s",
+                    "Year": "~800s C.E.",
                     "Text": "Legorensis civitatis",
                     "Where": ""
                 },
                 {
-                    "Year": "924",
+                    "Year": "924 C.E.",
                     "Text": "Ligera ceastre",
                     "Where": "The Anglo-Saxon Chronicle"
                 },
                 {
-                    "Year": "1086",
+                    "Year": "1086 C.E.",
                     "Text": "Ledecestre",
-                    "Where": "Domesday Book"
+                    "Where": "The Domesday Book"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Leicester",
+                    "Where": ""
                 }
             ],
             "References": [
@@ -325,22 +358,29 @@
                         "Abbreviation": "ME"
                     },
                     "Text": "Liverpool"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Welsh",
+                        "Abbreviation": "MW"
+                    },
+                    "Text": "Lerpwl"
                 }
             ],
             "Description": "<p>from Old English <oe>lifer</oe> meaning 'thick water' or 'muddy water', and <oe>p\u014dl</oe> meaning 'pool' or 'creek'</p>",
             "Timeline": [
                 {
-                    "Year": "1190",
+                    "Year": "1190 C.E.",
                     "Text": "Liuerpul",
                     "Where": ""
                 },
                 {
-                    "Year": "1418",
+                    "Year": "1418 C.E.",
                     "Text": "Leyrpole",
                     "Where": ""
                 },
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Liverpool",
                     "Where": ""
                 }
@@ -370,6 +410,13 @@
                         "Abbreviation": "L"
                     },
                     "Text": "Mamucium, Mancunio"
+                },
+                {
+                    "Language": {
+                        "Name": "Modern Welsh",
+                        "Abbreviation": "MW"
+                    },
+                    "Text": "Manceinion"
                 }
             ],
             "Description": "<p>from Brittonic <ob>*mamm-</ob> meaning 'breast', in reference to a 'breast-like hill', and Old English <oe>-ceaster</oe>, meaning 'fort', 'fortified town'</p>",
@@ -412,27 +459,27 @@
             "Description": "<p>from Snotingaham, meaning the home or settlement of the Snotingas - a clan whose name literally means 'Snot's people'</p>",
             "Timeline": [
                 {
-                    "Year": "~800s",
+                    "Year": "~800s C.E.",
                     "Text": "Tig Guocobauc",
                     "Where": ""
                 },
                 {
-                    "Year": "868",
+                    "Year": "868 C.E.",
                     "Text": "Snotengaham",
                     "Where": "The Anglo-Saxon Chronicle"
                 },
                 {
-                    "Year": "1086",
+                    "Year": "1086 C.E.",
                     "Text": "Snotingeham",
-                    "Where": "Domesday Book"
+                    "Where": "The Domesday Book"
                 },
                 {
-                    "Year": "1086",
+                    "Year": "1086 C.E.",
                     "Text": "Snotingham",
-                    "Where": "Domesday Book"
+                    "Where": "The Domesday Book"
                 },
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Nottingham",
                     "Where": ""
                 }
@@ -460,7 +507,7 @@
             "Description": "",
             "Timeline": [
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Sheffield",
                     "Where": ""
                 }
@@ -483,7 +530,7 @@
             "Description": "",
             "Timeline": [
                 {
-                    "Year": "2000",
+                    "Year": "2000 C.E.",
                     "Text": "Wakefield",
                     "Where": ""
                 }

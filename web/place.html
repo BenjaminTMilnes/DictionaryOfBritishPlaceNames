@@ -1,34 +1,53 @@
 <div class="place">
-    <h2>{{place.PrimaryName}}</h2>
-    <div compile="place.Description"></div>
-    <h3>Timeline</h3>
-    <table class="place-timeline">
-        <thead>
-            <tr>
-                <th>Year</th>
-                <th></th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr ng-repeat="mention in place.Timeline">
-                <td>{{mention.Year}}</td>
-                <td>{{mention.Text}}</td>
-                <td>{{mention.Where}}</td>
-            </tr>
-        </tbody>
-    </table>
-    <h3>References</h3>
-    <ol>
-        <li ng-repeat="reference in place.References">
-            <span ng-if="reference.Type == 'website'">
-                <span><a href="{{reference.URL}}" target="_blank">{{reference.URL}}</a></span>
-                <span>(accessed on {{reference.AccessedOn}})</span>
-            </span>
-        </li>
-    </ol>
-    <h3>See more</h3>
-    <p>The original .place file that this page was generated from can be viewed at <a
-            href="https://github.com/BenjaminTMilnes/DictionaryOfBritishPlaceNames/blob/main/data/{{place.URLReference}}.place" target="_blank">https://github.com/BenjaminTMilnes/DictionaryOfBritishPlaceNames/blob/main/data/{{place.URLReference}}.place</a>
-    </p>
+    <div class="place-primaryname">
+        <h2>{{place.PrimaryName}}</h2>
+    </div>
+    <div class="place-othermodernnames">
+        <p>
+            <span ng-show="nameInLatin != ''" class="place-modernname">Latin: <i>{{nameInLatin}}</i></span>
+            <span ng-show="nameInModernWelsh != ''" class="place-modernname">Welsh: <i>{{nameInModernWelsh}}</i></span>
+            <span ng-show="nameInModernIrish != ''" class="place-modernname">Irish: <i>{{nameInModernIrish}}</i></span>
+            <span ng-show="nameInModernScots != ''" class="place-modernname">Scots: <i>{{nameInModernScots}}</i></span>
+            <span ng-show="nameInModernScottishGaelic != ''" class="place-modernname">Scottish Gaelic: <i>{{nameInModernScottishGaelic}}</i></span>
+        </p>
+    </div>
+    <div compile="place.Description" class="place-description"></div>
+    <div class="place-timeline" ng-show="place.Timeline.length > 0">
+        <h3>Timeline</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Year</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="mention in place.Timeline">
+                    <td>{{mention.Year}}</td>
+                    <td>{{mention.Text}}</td>
+                    <td>{{mention.Where}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="place-references">
+        <h3>References</h3>
+        <ol ng-show="place.References.length > 0">
+            <li ng-repeat="reference in place.References">
+                <span ng-if="reference.Type == 'website'">
+                    <span><a href="{{reference.URL}}" target="_blank">{{reference.URL}}</a></span>
+                    <span>(accessed on {{reference.AccessedOn}})</span>
+                </span>
+            </li>
+        </ol>
+        <p ng-show="place.References.length == 0">No references have been given for this place name.</p>
+    </div>
+    <div class="place-seemore">
+        <h3>See more</h3>
+        <p>The original .place file that this page was generated from can be viewed at <a
+                href="https://github.com/BenjaminTMilnes/DictionaryOfBritishPlaceNames/blob/main/data/{{place.URLReference}}.place"
+                target="_blank">https://github.com/BenjaminTMilnes/DictionaryOfBritishPlaceNames/blob/main/data/{{place.URLReference}}.place</a>
+        </p>
+    </div>
 </div>

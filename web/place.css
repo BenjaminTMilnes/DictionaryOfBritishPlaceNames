@@ -1,28 +1,39 @@
+.place-othermodernnames {
+    color: #909090;
+    margin-top:-1.5em;
+}
 
-.place-timeline {
+.place-modernname {
+    margin-right: 1em;
+}
+
+.place-description {
+    margin: 3em 0em;
+}
+
+.place-timeline table {
     border-collapse: collapse;
     cursor: default;
     width: 100%;
     box-sizing: border-box;
 }
 
-.place-timeline tr {
+.place-timeline table tr {
     border-top: 1px solid #E0E0E0;
 }
 
-.place-timeline tr:hover {
-    background-color: #F0F0F0;
+.place-timeline table tbody tr:hover {
+    background-color: #F4F4F4;
     border-top: 1px solid #D0D0D0;
 }
 
-.place-timeline th {
+.place-timeline table th {
     font-weight: normal;
     text-align: left;
     padding: 0.5em 1em;
 }
 
-.place-timeline td {
+.place-timeline table td {
     text-align: left;
-    min-width: 5em;
     padding: 0.5em 1em;
 }
