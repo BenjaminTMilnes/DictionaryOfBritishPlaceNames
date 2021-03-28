@@ -175,11 +175,11 @@ application.controller("PlaceController", ["$scope", "dataService", "$routeParam
         $scope.places = data.Places;
         $scope.place = $scope.places.filter(p => p.URLReference == $routeParams.reference)[0];
 
-        var l = $scope.place.Names.filter(n => n.Language.Abbreviation == "L");
-        var mw = $scope.place.Names.filter(n => n.Language.Abbreviation == "MW");
-        var mi = $scope.place.Names.filter(n => n.Language.Abbreviation == "MI");
-        var ms = $scope.place.Names.filter(n => n.Language.Abbreviation == "MS");
-        var msg = $scope.place.Names.filter(n => n.Language.Abbreviation == "MSG");
+        var l = $scope.place.Names.filter(n => n.Language == "L");
+        var mw = $scope.place.Names.filter(n => n.Language == "MW");
+        var mi = $scope.place.Names.filter(n => n.Language == "MI");
+        var ms = $scope.place.Names.filter(n => n.Language == "MS");
+        var msg = $scope.place.Names.filter(n => n.Language == "MSG");
 
         $scope.nameInLatin = (l.length > 0) ? l[0].Text : "";
         $scope.nameInModernWelsh = (mw.length > 0) ? mw[0].Text : "";

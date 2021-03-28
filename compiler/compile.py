@@ -45,6 +45,7 @@ class Compiler(object):
 
             place["Names"] = []
             place["Description"] = ""
+            place["Parts"] = []
             place["Timeline"] = []
             place["References"] = []
 
@@ -53,6 +54,9 @@ class Compiler(object):
             for line in lines:
                 if section == "names" and not re.match("^[A-Z]+: ", line):
                     section = "description"
+                if line.startswith("parts:"):
+                    section = "parts"
+                    continue 
                 if line.startswith("timeline:"):
                     section = "timeline"
                     continue 
@@ -64,11 +68,11 @@ class Compiler(object):
                     continue
 
                 if section == "names":
-                    m = re.match("^([A-Z]+): (.+)", line)
+                    m = re.match("^([A-Za-z]+): (.+)", line)
 
                     name = {}
 
-                    name["Language"] = abbreviations[m.group(1)]
+                    name["Language"] = abbreviations[m.group(1)]["Abbreviation"]
                     name["Text"] = m.group(2)
 
                     place["Names"].append(name)
@@ -78,8 +82,19 @@ class Compiler(object):
                     text = re.sub(r"\[(\d+)\]", r"<sup>[\1]</sup>", text)
                     place["Description"] += "<p>" + text + "</p>"
 
+                if section == "parts":
+                    m = re.match("^([A-Za-z]+)\s+([^,]+),\s+(.+)", line)
+
+                    part = {}
+
+                    part["Language"] = m.group(1)
+                    part["Text"] = m.group(2)
+                    part["Type"] = m.group(3)
+
+                    place["Parts"].append(part)
+
                 if section == "timeline":
-                    m = re.match("^(~?\d+s?) ([^\,]+)(,\s*(.+))?", line)
+                    m = re.match("^(~?[\d\-]+s?) ([^\,]+)(,\s*(.+))?", line)
 
                     year = m.group(1)
                     year = year + " C.E." if not year.endswith("BCE") else year[:-3] + "B.C.E."

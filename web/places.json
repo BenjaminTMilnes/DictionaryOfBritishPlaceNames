@@ -5,14 +5,28 @@
             "PrimaryName": "Birmingham",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Birmingham"
                 }
             ],
             "Description": "<p>from Old English <oe>Beormingah\u0101m</oe>, meaning the home or settlement of the <oe>Beormingas</oe> \u2013 a clan whose name literally means 'Beorma's people'</p>",
+            "Parts": [
+                {
+                    "Language": "OE",
+                    "Text": "Beorma",
+                    "Type": "personal name"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "inga",
+                    "Type": "suffix"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "ham",
+                    "Type": "suffix"
+                }
+            ],
             "Timeline": [
                 {
                     "Year": "~600s C.E.",
@@ -38,14 +52,12 @@
             "PrimaryName": "Bradford",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Bradford"
                 }
             ],
             "Description": "",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "2000 C.E.",
@@ -60,21 +72,16 @@
             "PrimaryName": "Bristol",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Bristol"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Welsh",
-                        "Abbreviation": "MW"
-                    },
+                    "Language": "MW",
                     "Text": "Bryste"
                 }
             ],
             "Description": "<p>from Old English <oe>Brycgstow</oe>, meaning 'place at the bridge'</p>",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "2000 C.E.",
@@ -95,21 +102,16 @@
             "PrimaryName": "Cardiff",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Cardiff"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Welsh",
-                        "Abbreviation": "MW"
-                    },
+                    "Language": "MW",
                     "Text": "Caerdydd"
                 }
             ],
             "Description": "<p>MidW: Caerdyf</p><p>from Welsh <welsh>caer</welsh> meaning 'fort', and <welsh>-dyf</welsh> \u2013 a form of <welsh>Taf</welsh>, the name of the river that flows by Cardiff Castle</p>",
+            "Parts": [],
             "Timeline": [],
             "References": [
                 {
@@ -125,14 +127,12 @@
             "PrimaryName": "Coventry",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Coventry"
                 }
             ],
             "Description": "<p>there are several theories as to what the name means; it's thought that the most likely meaning is 'Coffa's tree' \u2013 a tree planted by or named after a person called 'Coffa', which may have marked the centre or boundary of a settlement</p><p>an alternative theory is that the name comes from 'Coventre' \u2013 from coven, an old variation of 'convent', and tre, a Celtic word meaning 'town'</p>",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "2000 C.E.",
@@ -154,35 +154,24 @@
             "PrimaryName": "Edinburgh",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Edinburgh"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Scots",
-                        "Abbreviation": "MS"
-                    },
+                    "Language": "MS",
                     "Text": "Edinburgh"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Scottish Gaelic",
-                        "Abbreviation": "MSG"
-                    },
+                    "Language": "MSG",
                     "Text": "D\u00f9n \u00c8ideann"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Welsh",
-                        "Abbreviation": "MW"
-                    },
+                    "Language": "MW",
                     "Text": "Caeredin"
                 }
             ],
             "Description": "<p>from Cumbric <cumbric>Eidyn</cumbric>, of unknown meaning, and Old English <oe>burh</oe>, meaning 'fortified settlement'</p>",
+            "Parts": [],
             "Timeline": [],
             "References": [
                 {
@@ -198,28 +187,20 @@
             "PrimaryName": "Glasgow",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Glasgow"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Scots",
-                        "Abbreviation": "MS"
-                    },
+                    "Language": "MS",
                     "Text": "Glesca, Glesga"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Scottish Gaelic",
-                        "Abbreviation": "MSG"
-                    },
+                    "Language": "MSG",
                     "Text": "Glaschu"
                 }
             ],
             "Description": "<p>from Brittonic <ob>glas</ob> meaning 'grey-green', 'grey-blue' and <ob>*c\u00f6\u00fc</ob> meaning 'hollow', so the name means 'green-hollow'</p>",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "1116 C.E.",
@@ -246,21 +227,16 @@
             "PrimaryName": "Leeds",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Leeds"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Welsh",
-                        "Abbreviation": "MW"
-                    },
+                    "Language": "MW",
                     "Text": "Lloed"
                 }
             ],
             "Description": "",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "731 C.E.",
@@ -296,28 +272,20 @@
             "PrimaryName": "Leicester",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Leicester"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Welsh",
-                        "Abbreviation": "MW"
-                    },
+                    "Language": "MW",
                     "Text": "Caerl\u0177r"
                 },
                 {
-                    "Language": {
-                        "Name": "Latin",
-                        "Abbreviation": "L"
-                    },
+                    "Language": "L",
                     "Text": "Legorensis civitatis"
                 }
             ],
             "Description": "<p>from ligore, the name of a people, who were themselves named after the River Ligor (now the River Soar), and Old English <oe>ceaster</oe>, meaning 'fort', 'fortified town'</p>",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "~800s C.E.",
@@ -353,21 +321,16 @@
             "PrimaryName": "Liverpool",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Liverpool"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Welsh",
-                        "Abbreviation": "MW"
-                    },
+                    "Language": "MW",
                     "Text": "Lerpwl"
                 }
             ],
             "Description": "<p>from Old English <oe>lifer</oe> meaning 'thick water' or 'muddy water', and <oe>p\u014dl</oe> meaning 'pool' or 'creek'</p>",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "1190 C.E.",
@@ -398,28 +361,20 @@
             "PrimaryName": "Manchester",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Manchester"
                 },
                 {
-                    "Language": {
-                        "Name": "Latin",
-                        "Abbreviation": "L"
-                    },
+                    "Language": "L",
                     "Text": "Mamucium, Mancunio"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Welsh",
-                        "Abbreviation": "MW"
-                    },
+                    "Language": "MW",
                     "Text": "Manceinion"
                 }
             ],
             "Description": "<p>from Brittonic <ob>*mamm-</ob> meaning 'breast', in reference to a 'breast-like hill', and Old English <oe>-ceaster</oe>, meaning 'fort', 'fortified town'</p>",
+            "Parts": [],
             "Timeline": [],
             "References": [
                 {
@@ -431,32 +386,65 @@
             "Demonym": "Mancunian"
         },
         {
+            "URLReference": "newcastle",
+            "PrimaryName": "Newcastle",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Newcastle"
+                }
+            ],
+            "Description": "<p>The town was named <l>Novum Castellum</l> or <me>New Castle</me> after Robert Curthose, son of William the Conqueror, constructed a wooden castle there in 1080. Before that it was known as <oe>Munucceaster</oe>.</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "500-1000 C.E.",
+                    "Text": "Munucceaster",
+                    "Where": ""
+                },
+                {
+                    "Year": "1080 C.E.",
+                    "Text": "Novum Castellum",
+                    "Where": ""
+                },
+                {
+                    "Year": "1080 C.E.",
+                    "Text": "New Castle",
+                    "Where": ""
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Newcastle",
+                    "Where": ""
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
+                    "AccessedOn": "2021.03.28"
+                }
+            ]
+        },
+        {
             "URLReference": "nottingham",
             "PrimaryName": "Nottingham",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Nottingham"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Welsh",
-                        "Abbreviation": "MW"
-                    },
+                    "Language": "MW",
                     "Text": "Y T\u0177 Ogofog"
                 },
                 {
-                    "Language": {
-                        "Name": "Modern Irish",
-                        "Abbreviation": "MI"
-                    },
+                    "Language": "MI",
                     "Text": "Na Tithe Uaimh"
                 }
             ],
             "Description": "<p>from Snotingaham, meaning the home or settlement of the Snotingas \u2013 a clan whose name literally means 'Snot's people' <sup>[1]</sup></p>",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "~800s C.E.",
@@ -497,14 +485,12 @@
             "PrimaryName": "Sheffield",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Sheffield"
                 }
             ],
             "Description": "",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "2000 C.E.",
@@ -520,14 +506,12 @@
             "PrimaryName": "Wakefield",
             "Names": [
                 {
-                    "Language": {
-                        "Name": "Modern English",
-                        "Abbreviation": "ME"
-                    },
+                    "Language": "ME",
                     "Text": "Wakefield"
                 }
             ],
             "Description": "",
+            "Parts": [],
             "Timeline": [
                 {
                     "Year": "2000 C.E.",
