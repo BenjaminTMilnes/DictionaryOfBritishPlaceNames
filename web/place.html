@@ -34,7 +34,7 @@
     <div class="place-references">
         <h3>References</h3>
         <ol ng-show="place.References.length > 0">
-            <li ng-repeat="reference in place.References">
+            <li ng-repeat="reference in place.References" id="ref{{$index + 1}}">
                 <span ng-if="reference.Type == 'website'">
                     <span><a href="{{reference.URL}}" target="_blank">{{reference.URL}}</a></span>
                     <span>(accessed on {{reference.AccessedOn}})</span>

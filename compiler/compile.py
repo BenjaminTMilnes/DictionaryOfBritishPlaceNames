@@ -74,7 +74,9 @@ class Compiler(object):
                     place["Names"].append(name)
 
                 if section == "description":
-                    place["Description"] += "<p>" + line.strip() + "</p>"
+                    text = line.strip().replace(" - ", " – ")
+                    text = re.sub(r"\[(\d+)\]", r"<sup>[\1]</sup>", text)
+                    place["Description"] += "<p>" + text + "</p>"
 
                 if section == "timeline":
                     m = re.match("^(~?\d+s?) ([^\,]+)(,\s*(.+))?", line)
