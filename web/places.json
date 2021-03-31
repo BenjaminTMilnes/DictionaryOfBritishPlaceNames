@@ -7,9 +7,13 @@
                 {
                     "Language": "ME",
                     "Text": "Birmingham"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Beormingah\u0101m"
                 }
             ],
-            "Description": "<p>from Old English <oe>Beormingah\u0101m</oe>, meaning the home or settlement of the <oe>Beormingas</oe> \u2013 a clan whose name literally means 'Beorma's people'</p>",
+            "Description": "<p>The name 'Birmingham' is from Old English <oe>Beormingah\u0101m</oe>, meaning the home or settlement of the <oe>Beormingas</oe> \u2013 a clan whose name literally means 'Beorma's people'. <sup>[1]</sup></p>",
             "Parts": [
                 {
                     "Language": "OE",
@@ -30,8 +34,13 @@
             "Timeline": [
                 {
                     "Year": "~600s C.E.",
-                    "Text": "Beormingah\u0101m",
+                    "Text": "Beormingah\u0101m [1]",
                     "Where": ""
+                },
+                {
+                    "Year": "1086 C.E.",
+                    "Text": "Bermingeh\u0101",
+                    "Where": "The Domesday Book [2]"
                 },
                 {
                     "Year": "2000 C.E.",
@@ -44,6 +53,11 @@
                     "Type": "website",
                     "URL": "https://en.wikipedia.org/wiki/Birmingham",
                     "AccessedOn": "2021.03.27"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://opendomesday.org/place/SP0786/birmingham/",
+                    "AccessedOn": "2021.03.30"
                 }
             ]
         },
@@ -68,6 +82,68 @@
             "References": []
         },
         {
+            "URLReference": "brighton",
+            "PrimaryName": "Brighton",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Brighton"
+                }
+            ],
+            "Description": "<p>The name 'Brighton' comes from Old English <oe>Beorthelm</oe>, an Anglo-Saxon personal name, and <oe>t\u016bn</oe> meaning 'town'. <sup>[1]</sup></p>",
+            "Parts": [
+                {
+                    "Language": "OE",
+                    "Text": "Beorthelm",
+                    "Type": "personal name"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "t\u016bn",
+                    "Type": "suffix"
+                }
+            ],
+            "Timeline": [
+                {
+                    "Year": "1086 C.E.",
+                    "Text": "Bristelmestune",
+                    "Where": "The Domesday Book [2]"
+                },
+                {
+                    "Year": "~1300-1800 C.E.",
+                    "Text": "Brighthelmstone [1]",
+                    "Where": ""
+                },
+                {
+                    "Year": "~1300-1800 C.E.",
+                    "Text": "Brighthelmston [1]",
+                    "Where": ""
+                },
+                {
+                    "Year": "1660 C.E.",
+                    "Text": "Brighton [1]",
+                    "Where": ""
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Brighton",
+                    "Where": ""
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Brighton",
+                    "AccessedOn": "2021.03.29"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://opendomesday.org/place/TQ3105/brighton/",
+                    "AccessedOn": "2021.03.30"
+                }
+            ]
+        },
+        {
             "URLReference": "bristol",
             "PrimaryName": "Bristol",
             "Names": [
@@ -78,9 +154,13 @@
                 {
                     "Language": "MW",
                     "Text": "Bryste"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Brycgstow"
                 }
             ],
-            "Description": "<p>from Old English <oe>Brycgstow</oe>, meaning 'place at the bridge'</p>",
+            "Description": "<p>The name 'Bristol' is from Old English <oe>Brycgstow</oe>, meaning 'place at the bridge'. <sup>[1]</sup></p>",
             "Parts": [],
             "Timeline": [
                 {
@@ -502,6 +582,75 @@
             "Demonym": "Sheffielder"
         },
         {
+            "URLReference": "southampton",
+            "PrimaryName": "Southampton",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Southampton"
+                },
+                {
+                    "Language": "L",
+                    "Text": "Clausentum"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~70-410 C.E.",
+                    "Text": "Clausentum [1]",
+                    "Where": ""
+                },
+                {
+                    "Year": "~400-1000 C.E.",
+                    "Text": "Hamwic [1]",
+                    "Where": ""
+                },
+                {
+                    "Year": "~400-1000 C.E.",
+                    "Text": "Hamtun [1]",
+                    "Where": ""
+                },
+                {
+                    "Year": "1086 C.E.",
+                    "Text": "Stanham",
+                    "Where": "The Domesday Book [2]"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Southampton",
+                    "Where": ""
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/History_of_Southampton",
+                    "AccessedOn": "2021.03.30"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://opendomesday.org/place/SU4111/southampton/",
+                    "AccessedOn": "2021.03.30"
+                }
+            ]
+        },
+        {
+            "URLReference": "sunderland",
+            "PrimaryName": "Sunderland",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Sunderland"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [],
+            "References": []
+        },
+        {
             "URLReference": "wakefield",
             "PrimaryName": "Wakefield",
             "Names": [
@@ -520,6 +669,69 @@
                 }
             ],
             "References": []
+        },
+        {
+            "URLReference": "winchester",
+            "PrimaryName": "Winchester",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Winchester"
+                },
+                {
+                    "Language": "L",
+                    "Text": "Venta Belgarum"
+                },
+                {
+                    "Language": "MW",
+                    "Text": "Caerwynt"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "\u01bfintanceastre"
+                }
+            ],
+            "Description": "<p>The name 'Winchester' is from Old English <oe>\u01bfintanceastre</oe>, which is from <brittonic>went\u0101</brittonic>, the Brittonic name for the town, and Old English <oe>-ceastre</oe>, meaning 'fort', 'fortified town'.</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~100-0 B.C.E.",
+                    "Text": "Went\u0101 / Venta [1]",
+                    "Where": ""
+                },
+                {
+                    "Year": "~40-400 C.E.",
+                    "Text": "Venta Belgarum [1]",
+                    "Where": ""
+                },
+                {
+                    "Year": "~900s C.E.",
+                    "Text": "\u01bfintanceastre",
+                    "Where": "The Anglo-Saxon Chronicle [1]"
+                },
+                {
+                    "Year": "1086 C.E.",
+                    "Text": "Wincestre",
+                    "Where": "The Domesday Book [2]"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Winchester",
+                    "Where": ""
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Winchester",
+                    "AccessedOn": "2021.03.30"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://opendomesday.org/place/SU4829/winchester/",
+                    "AccessedOn": "2021.03.30"
+                }
+            ]
         }
     ]
 }

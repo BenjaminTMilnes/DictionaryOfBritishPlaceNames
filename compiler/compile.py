@@ -78,7 +78,10 @@ class Compiler(object):
                     place["Names"].append(name)
 
                 if section == "description":
-                    text = line.strip().replace(" - ", " – ")
+                    text = line.strip()
+                    text = text.replace(" - ", " – ")
+                    text = text.replace("OE", "Old English")
+                    text = text.replace("AS", "Anglo-Saxon")
                     text = re.sub(r"\[(\d+)\]", r"<sup>[\1]</sup>", text)
                     place["Description"] += "<p>" + text + "</p>"
 
@@ -94,13 +97,13 @@ class Compiler(object):
                     place["Parts"].append(part)
 
                 if section == "timeline":
-                    m = re.match("^(~?[\d\-]+s?) ([^\,]+)(,\s*(.+))?", line)
+                    m = re.match("^(~?[\d\-]+s?( BCE)?) ([^\,]+)(,\s*(.+))?", line)
 
                     year = m.group(1)
                     year = year + " C.E." if not year.endswith("BCE") else year[:-3] + "B.C.E."
-                    where = m.group(4) if m.group(4) != None else ""
+                    where = m.group(5) if m.group(5) != None else ""
 
-                    place["Timeline"].append({"Year": year, "Text": m.group(2), "Where": where})
+                    place["Timeline"].append({"Year": year, "Text": m.group(3), "Where": where})
 
                 if section == "references":
 
