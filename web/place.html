@@ -25,7 +25,7 @@
             <tbody>
                 <tr ng-repeat="mention in place.Timeline">
                     <td>{{mention.Year}}</td>
-                    <td>{{mention.Text}}</td>
+                    <td>{{mention.Text}}<span ng-if="mention.Reference != null"> <sup>[{{mention.Reference}}]</sup></span></td>
                     <td>{{mention.Where}}</td>
                 </tr>
             </tbody>

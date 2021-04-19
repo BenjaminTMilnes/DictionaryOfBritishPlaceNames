@@ -35,6 +35,7 @@ class Compiler(object):
         with open(filePath, "r", encoding="utf-8") as fileObject:
             lines = fileObject.readlines()
             lines = [l.strip() for l in lines if l.strip() != ""]
+            lines = [l for l in lines if not l.startswith("//")]
 
             place = {}
 
@@ -97,13 +98,14 @@ class Compiler(object):
                     place["Parts"].append(part)
 
                 if section == "timeline":
-                    m = re.match("^(~?[\d\-]+s?( BCE)?) ([^\,]+)(,\s*(.+))?", line)
+                    m = re.match(r"^(~?[\d\-]+s?( BCE)?) ([^\,\[\]]+)(,\s*([^\[\]]+))?(\s*\[(\d+)\])?", line)
 
                     year = m.group(1)
                     year = year + " C.E." if not year.endswith("BCE") else year[:-3] + "B.C.E."
                     where = m.group(5) if m.group(5) != None else ""
+                    reference = m.group(7)
 
-                    place["Timeline"].append({"Year": year, "Text": m.group(3), "Where": where})
+                    place["Timeline"].append({"Year": year, "Text": m.group(3).strip(), "Where": where.strip(), "Reference": reference})
 
                 if section == "references":
 

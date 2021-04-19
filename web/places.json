@@ -34,18 +34,21 @@
             "Timeline": [
                 {
                     "Year": "~600s C.E.",
-                    "Text": "Beormingah\u0101m [1]",
-                    "Where": ""
+                    "Text": "Beormingah\u0101m",
+                    "Where": "",
+                    "Reference": "1"
                 },
                 {
                     "Year": "1086 C.E.",
                     "Text": "Bermingeh\u0101",
-                    "Where": "The Domesday Book [2]"
+                    "Where": "The Domesday Book",
+                    "Reference": "2"
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Birmingham",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -76,7 +79,8 @@
                 {
                     "Year": "2000 C.E.",
                     "Text": "Bradford",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": []
@@ -107,27 +111,32 @@
                 {
                     "Year": "1086 C.E.",
                     "Text": "Bristelmestune",
-                    "Where": "The Domesday Book [2]"
+                    "Where": "The Domesday Book",
+                    "Reference": "2"
                 },
                 {
                     "Year": "~1300-1800 C.E.",
-                    "Text": "Brighthelmstone [1]",
-                    "Where": ""
+                    "Text": "Brighthelmstone",
+                    "Where": "",
+                    "Reference": "1"
                 },
                 {
                     "Year": "~1300-1800 C.E.",
-                    "Text": "Brighthelmston [1]",
-                    "Where": ""
+                    "Text": "Brighthelmston",
+                    "Where": "",
+                    "Reference": "1"
                 },
                 {
                     "Year": "1660 C.E.",
-                    "Text": "Brighton [1]",
-                    "Where": ""
+                    "Text": "Brighton",
+                    "Where": "",
+                    "Reference": "1"
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Brighton",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -166,7 +175,8 @@
                 {
                     "Year": "2000 C.E.",
                     "Text": "Bristol",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -217,7 +227,8 @@
                 {
                     "Year": "2000 C.E.",
                     "Text": "Coventry",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -228,6 +239,51 @@
                 }
             ],
             "Demonym": "Coventrian"
+        },
+        {
+            "URLReference": "derby",
+            "PrimaryName": "Derby",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Derby"
+                }
+            ],
+            "Description": "<p>There are various influences on the name 'Derby'. It comes partly from Latin <latin>Derventio</latin>, the name of a Roman fort situated on the Derwent, and partly from Old English <oe>Deoraby</oe>, meaning 'village of the deer'.</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~50 C.E.",
+                    "Text": "Derventio",
+                    "Where": "",
+                    "Reference": null
+                },
+                {
+                    "Year": "~900 C.E.",
+                    "Text": "Deoraby",
+                    "Where": "",
+                    "Reference": null
+                },
+                {
+                    "Year": "1610 C.E.",
+                    "Text": "Darbye",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Derby",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Derby",
+                    "AccessedOn": "2021.04.12"
+                }
+            ]
         },
         {
             "URLReference": "edinburgh",
@@ -285,12 +341,14 @@
                 {
                     "Year": "1116 C.E.",
                     "Text": "Glasgu",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Glasgow",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -321,22 +379,26 @@
                 {
                     "Year": "731 C.E.",
                     "Text": "Loidis",
-                    "Where": "The Ecclesiastical History of the English People by Bede"
+                    "Where": "The Ecclesiastical History of the English People by Bede",
+                    "Reference": null
                 },
                 {
                     "Year": "1086 C.E.",
                     "Text": "Ledes",
-                    "Where": "The Domesday Book"
+                    "Where": "The Domesday Book",
+                    "Reference": null
                 },
                 {
                     "Year": "1725 C.E.",
                     "Text": "Leedes",
-                    "Where": "a map by John Cossins"
+                    "Where": "a map by John Cossins",
+                    "Reference": null
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Leeds",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -370,22 +432,26 @@
                 {
                     "Year": "~800s C.E.",
                     "Text": "Legorensis civitatis",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 },
                 {
                     "Year": "924 C.E.",
                     "Text": "Ligera ceastre",
-                    "Where": "The Anglo-Saxon Chronicle"
+                    "Where": "The Anglo-Saxon Chronicle",
+                    "Reference": null
                 },
                 {
                     "Year": "1086 C.E.",
                     "Text": "Ledecestre",
-                    "Where": "The Domesday Book"
+                    "Where": "The Domesday Book",
+                    "Reference": null
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Leicester",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -415,17 +481,20 @@
                 {
                     "Year": "1190 C.E.",
                     "Text": "Liuerpul",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 },
                 {
                     "Year": "1418 C.E.",
                     "Text": "Leyrpole",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Liverpool",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -480,22 +549,26 @@
                 {
                     "Year": "500-1000 C.E.",
                     "Text": "Munucceaster",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 },
                 {
                     "Year": "1080 C.E.",
                     "Text": "Novum Castellum",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 },
                 {
                     "Year": "1080 C.E.",
                     "Text": "New Castle",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Newcastle",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -529,27 +602,32 @@
                 {
                     "Year": "~800s C.E.",
                     "Text": "Tig Guocobauc",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 },
                 {
                     "Year": "868 C.E.",
                     "Text": "Snotengaham",
-                    "Where": "The Anglo-Saxon Chronicle"
+                    "Where": "The Anglo-Saxon Chronicle",
+                    "Reference": null
                 },
                 {
                     "Year": "1086 C.E.",
                     "Text": "Snotingeham",
-                    "Where": "The Domesday Book"
+                    "Where": "The Domesday Book",
+                    "Reference": null
                 },
                 {
                     "Year": "1086 C.E.",
                     "Text": "Snotingham",
-                    "Where": "The Domesday Book"
+                    "Where": "The Domesday Book",
+                    "Reference": null
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Nottingham",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -557,6 +635,51 @@
                     "Type": "website",
                     "URL": "https://en.wikipedia.org/wiki/History_of_Nottingham",
                     "AccessedOn": "2021.03.28"
+                }
+            ]
+        },
+        {
+            "URLReference": "plymouth",
+            "PrimaryName": "Plymouth",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Plymouth"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~1000-1440 C.E.",
+                    "Text": "Sutton",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1211 C.E.",
+                    "Text": "Plym Mouth",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1440 C.E.",
+                    "Text": "Plymouth",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Plymouth",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Plymouth",
+                    "AccessedOn": "2021.04.12"
                 }
             ]
         },
@@ -575,7 +698,8 @@
                 {
                     "Year": "2000 C.E.",
                     "Text": "Sheffield",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [],
@@ -599,28 +723,33 @@
             "Timeline": [
                 {
                     "Year": "~70-410 C.E.",
-                    "Text": "Clausentum [1]",
-                    "Where": ""
+                    "Text": "Clausentum",
+                    "Where": "",
+                    "Reference": "1"
                 },
                 {
                     "Year": "~400-1000 C.E.",
-                    "Text": "Hamwic [1]",
-                    "Where": ""
+                    "Text": "Hamwic",
+                    "Where": "",
+                    "Reference": "1"
                 },
                 {
                     "Year": "~400-1000 C.E.",
-                    "Text": "Hamtun [1]",
-                    "Where": ""
+                    "Text": "Hamtun",
+                    "Where": "",
+                    "Reference": "1"
                 },
                 {
                     "Year": "1086 C.E.",
                     "Text": "Stanham",
-                    "Where": "The Domesday Book [2]"
+                    "Where": "The Domesday Book",
+                    "Reference": "2"
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Southampton",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -633,6 +762,26 @@
                     "Type": "website",
                     "URL": "https://opendomesday.org/place/SU4111/southampton/",
                     "AccessedOn": "2021.03.30"
+                }
+            ]
+        },
+        {
+            "URLReference": "stoke-on-trent",
+            "PrimaryName": "Stoke-on-Trent",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Stoke-on-Trent"
+                }
+            ],
+            "Description": "<p>Ultimately from Old English <oe>stoc</oe>, which just meant 'place'.</p>",
+            "Parts": [],
+            "Timeline": [],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Stoke-on-Trent",
+                    "AccessedOn": "2021.04.12"
                 }
             ]
         },
@@ -665,7 +814,8 @@
                 {
                     "Year": "2000 C.E.",
                     "Text": "Wakefield",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": []
@@ -696,28 +846,33 @@
             "Timeline": [
                 {
                     "Year": "~100-0 B.C.E.",
-                    "Text": "Went\u0101 / Venta [1]",
-                    "Where": ""
+                    "Text": "Went\u0101 / Venta",
+                    "Where": "",
+                    "Reference": "1"
                 },
                 {
                     "Year": "~40-400 C.E.",
-                    "Text": "Venta Belgarum [1]",
-                    "Where": ""
+                    "Text": "Venta Belgarum",
+                    "Where": "",
+                    "Reference": "1"
                 },
                 {
                     "Year": "~900s C.E.",
                     "Text": "\u01bfintanceastre",
-                    "Where": "The Anglo-Saxon Chronicle [1]"
+                    "Where": "The Anglo-Saxon Chronicle",
+                    "Reference": "1"
                 },
                 {
                     "Year": "1086 C.E.",
                     "Text": "Wincestre",
-                    "Where": "The Domesday Book [2]"
+                    "Where": "The Domesday Book",
+                    "Reference": "2"
                 },
                 {
                     "Year": "2000 C.E.",
                     "Text": "Winchester",
-                    "Where": ""
+                    "Where": "",
+                    "Reference": null
                 }
             ],
             "References": [
@@ -730,6 +885,50 @@
                     "Type": "website",
                     "URL": "https://opendomesday.org/place/SU4829/winchester/",
                     "AccessedOn": "2021.03.30"
+                }
+            ]
+        },
+        {
+            "URLReference": "wolverhampton",
+            "PrimaryName": "Wolverhampton",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Wolverhampton"
+                }
+            ],
+            "Description": "<p>Most likely from Old English <oe>Wulfr\u016bneh\u0113ant\u016bn</oe>, which is from <oe>Wulfr\u016bn</oe>, a personal name, <oe>h\u0113an</oe>, meaning 'high', and <oe>t\u016bn</oe>, meaning 'enclosure' or 'farm'.</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1086 C.E.",
+                    "Text": "Hantone",
+                    "Where": "The Domesday Book",
+                    "Reference": "2"
+                },
+                {
+                    "Year": "1381 C.E.",
+                    "Text": "Wolveren Hampton",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Wolverhampton",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Wolverhampton",
+                    "AccessedOn": "2021.04.12"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://opendomesday.org/place/SO9198/wolverhampton/",
+                    "AccessedOn": "2021.04.12"
                 }
             ]
         }
