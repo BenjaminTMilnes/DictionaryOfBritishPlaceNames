@@ -506,6 +506,55 @@
             ]
         },
         {
+            "URLReference": "luton",
+            "PrimaryName": "Luton",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Luton"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Lygetun"
+                }
+            ],
+            "Description": "<p>from Old English <oe>Lygetun</oe>, meaning 'town on the River Lea'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~700s C.E.",
+                    "Text": "Lygetun",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1086 C.E.",
+                    "Text": "Loitone",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1086 C.E.",
+                    "Text": "Lintone",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Luton",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Luton",
+                    "AccessedOn": "2024.06.06"
+                }
+            ]
+        },
+        {
             "URLReference": "manchester",
             "PrimaryName": "Manchester",
             "Names": [
