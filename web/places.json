@@ -733,6 +733,43 @@
             ]
         },
         {
+            "URLReference": "portsmouth",
+            "PrimaryName": "Portsmouth",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Portsmouth"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Portesmu\u00f0a"
+                }
+            ],
+            "Description": "<p>from Old English <oe>Portesmu\u00f0a</oe>, which is from <oe>port</oe>, meaning 'a haven', and <oe>mu\u00f0a</oe>, meaning 'the mouth of a river or estuary'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~700s C.E.",
+                    "Text": "Portesmu\u00f0a",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Portsmouth",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Portsmouth",
+                    "AccessedOn": "2024.06.07"
+                }
+            ]
+        },
+        {
             "URLReference": "sheffield",
             "PrimaryName": "Sheffield",
             "Names": [
