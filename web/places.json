@@ -770,6 +770,43 @@
             ]
         },
         {
+            "URLReference": "reading",
+            "PrimaryName": "Reading",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Reading"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Readingas"
+                }
+            ],
+            "Description": "<p>from Old English <oe>Readingas</oe>, which likely means 'Reada's people'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~700s C.E.",
+                    "Text": "Readingas",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Reading",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Reading,_Berkshire",
+                    "AccessedOn": "2024.06.08"
+                }
+            ]
+        },
+        {
             "URLReference": "sheffield",
             "PrimaryName": "Sheffield",
             "Names": [
