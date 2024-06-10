@@ -629,6 +629,43 @@
             ]
         },
         {
+            "URLReference": "norwich",
+            "PrimaryName": "Norwich",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Norwich"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Nor\u00f0wic"
+                }
+            ],
+            "Description": "<p>from Old English <oe>Nor\u00f0wic</oe>, meaning 'north farm'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~600s C.E.",
+                    "Text": "Nor\u00f0wic",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Norwich",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Norwich",
+                    "AccessedOn": "2024.06.10"
+                }
+            ]
+        },
+        {
             "URLReference": "nottingham",
             "PrimaryName": "Nottingham",
             "Names": [
