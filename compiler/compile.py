@@ -101,7 +101,7 @@ class Compiler(object):
                     m = re.match(r"^(~?[\d\-]+s?( BCE)?) ([^\,\[\]]+)(,\s*([^\[\]]+))?(\s*\[(\d+)\])?", line)
 
                     year = m.group(1)
-                    year = year + " C.E." if not year.endswith("BCE") else year[:-3] + "B.C.E."
+                    year = year + " A.D." if not year.endswith("BCE") else year[:-3] + "B.C."
                     where = m.group(5) if m.group(5) != None else ""
                     reference = m.group(7)
 
