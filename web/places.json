@@ -764,6 +764,78 @@
             ]
         },
         {
+            "URLReference": "peterborough",
+            "PrimaryName": "Peterborough",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Peterborough"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Medeshamstede"
+                }
+            ],
+            "Description": "<p>The original name of Peterborough was Medeshamstede \u2013 an Old English name meaning either 'the village of Mede' or 'the village in the meadows'.</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~600s A.D.",
+                    "Text": "Medeshamstede",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "~600s A.D.",
+                    "Text": "Medeshamstedi",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "~700s A.D.",
+                    "Text": "Medyh\u00e6mstede",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "~900s A.D.",
+                    "Text": "Medelhamstede",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "~1100s A.D.",
+                    "Text": "Medeshamstede",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "~1100s A.D.",
+                    "Text": "Gildenburgh",
+                    "Where": "",
+                    "Reference": "2"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Peterborough",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Medeshamstede",
+                    "AccessedOn": "2024.06.12"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Peterborough",
+                    "AccessedOn": "2024.06.12"
+                }
+            ]
+        },
+        {
             "URLReference": "plymouth",
             "PrimaryName": "Plymouth",
             "Names": [
