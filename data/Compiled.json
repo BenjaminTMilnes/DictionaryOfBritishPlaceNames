@@ -65,6 +65,45 @@
             ]
         },
         {
+            "URLReference": "bournemouth",
+            "PrimaryName": "Bournemouth",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Bournemouth"
+                }
+            ],
+            "Description": "<p>from Old English <oe>burna</oe>, meaning 'stream', and <oe>mu\u00f0a</oe>, meaning 'the mouth of a river or estuary'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1406 C.E.",
+                    "Text": "Bournemothe",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1500s C.E.",
+                    "Text": "Bourne Mouth",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 C.E.",
+                    "Text": "Bournemouth",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Bournemouth",
+                    "AccessedOn": "2024.06.12"
+                }
+            ]
+        },
+        {
             "URLReference": "bradford",
             "PrimaryName": "Bradford",
             "Names": [
