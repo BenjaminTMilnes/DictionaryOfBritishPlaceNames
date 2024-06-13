@@ -65,6 +65,73 @@
             ]
         },
         {
+            "URLReference": "bolton",
+            "PrimaryName": "Bolton",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Bolton"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Bothltun"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~700s A.D.",
+                    "Text": "Bothltun",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1185 A.D.",
+                    "Text": "Boelton",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1212 A.D.",
+                    "Text": "Bothelton",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1257 A.D.",
+                    "Text": "Botelton",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1288 A.D.",
+                    "Text": "Boulton",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1307 A.D.",
+                    "Text": "Bolton",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Bolton",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Bolton",
+                    "AccessedOn": "2024.06.13"
+                }
+            ]
+        },
+        {
             "URLReference": "bournemouth",
             "PrimaryName": "Bournemouth",
             "Names": [
