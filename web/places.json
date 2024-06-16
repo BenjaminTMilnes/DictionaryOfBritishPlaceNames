@@ -1138,6 +1138,39 @@
             "References": []
         },
         {
+            "URLReference": "swindon",
+            "PrimaryName": "Swindon",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Swindon"
+                }
+            ],
+            "Description": "<p>from Old English <oe>swine</oe>, meaning 'swine', 'pig', and <oe>dun</oe>, meaning 'hill'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Suindune",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Swindon",
+                    "Where": "",
+                    "Reference": "1"
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Swindon",
+                    "AccessedOn": "2024.06.16"
+                }
+            ]
+        },
+        {
             "URLReference": "wakefield",
             "PrimaryName": "Wakefield",
             "Names": [
