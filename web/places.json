@@ -1104,6 +1104,51 @@
             ]
         },
         {
+            "URLReference": "southend-on-sea",
+            "PrimaryName": "Southend-on-Sea",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Southend-on-Sea"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1309 A.D.",
+                    "Text": "Stratende",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1408 A.D.",
+                    "Text": "Sowthende",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1787 A.D.",
+                    "Text": "Southend",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Southend-on-Sea",
+                    "Where": "",
+                    "Reference": "1"
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Southend-on-Sea",
+                    "AccessedOn": "2024.06.17"
+                }
+            ]
+        },
+        {
             "URLReference": "stoke-on-trent",
             "PrimaryName": "Stoke-on-Trent",
             "Names": [
