@@ -1237,6 +1237,39 @@
             "References": []
         },
         {
+            "URLReference": "warrington",
+            "PrimaryName": "Warrington",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Warrington"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Wallintun",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Warrington",
+                    "Where": "",
+                    "Reference": "1"
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Warrington",
+                    "AccessedOn": "2024.06.18"
+                }
+            ]
+        },
+        {
             "URLReference": "winchester",
             "PrimaryName": "Winchester",
             "Names": [
