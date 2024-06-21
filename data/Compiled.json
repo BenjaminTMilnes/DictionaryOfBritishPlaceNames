@@ -467,6 +467,33 @@
             "Demonym": "Glaswegian"
         },
         {
+            "URLReference": "kingswood",
+            "PrimaryName": "Kingswood",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Kingswood"
+                }
+            ],
+            "Description": "<p>the meaning is unchanged from the original; 'King's Wood' \u2013 originally a royal hunting estate</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Kingswood",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Kingswood,_South_Gloucestershire",
+                    "AccessedOn": "2024.06.21"
+                }
+            ]
+        },
+        {
             "URLReference": "leeds",
             "PrimaryName": "Leeds",
             "Names": [
