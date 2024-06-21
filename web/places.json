@@ -831,6 +831,43 @@
             ]
         },
         {
+            "URLReference": "oxford",
+            "PrimaryName": "Oxford",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Oxford"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Oxnaford"
+                }
+            ],
+            "Description": "<p>from Old English <oe>oxa</oe>, meaning 'ox', and <oe>ford</oe>, meaning 'ford'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~700s A.D.",
+                    "Text": "Oxnaford",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Oxford",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/History_of_Oxford",
+                    "AccessedOn": "2024.06.20"
+                }
+            ]
+        },
+        {
             "URLReference": "peterborough",
             "PrimaryName": "Peterborough",
             "Names": [
@@ -1042,6 +1079,68 @@
             ],
             "References": [],
             "Demonym": "Sheffielder"
+        },
+        {
+            "URLReference": "slough",
+            "PrimaryName": "Slough",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Slough"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1195 A.D.",
+                    "Text": "Slo",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1336 A.D.",
+                    "Text": "Sloo",
+                    "Where": "",
+                    "Reference": "2"
+                },
+                {
+                    "Year": "1437 A.D.",
+                    "Text": "Le Slowe",
+                    "Where": "",
+                    "Reference": "2"
+                },
+                {
+                    "Year": "1437 A.D.",
+                    "Text": "Slowe",
+                    "Where": "",
+                    "Reference": "2"
+                },
+                {
+                    "Year": "1437 A.D.",
+                    "Text": "Slow",
+                    "Where": "",
+                    "Reference": "2"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Slough",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Slough",
+                    "AccessedOn": "2024.06.21"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/History_of_Slough",
+                    "AccessedOn": "2024.06.21"
+                }
+            ]
         },
         {
             "URLReference": "southampton",
