@@ -504,6 +504,49 @@
             "Demonym": "Glaswegian"
         },
         {
+            "URLReference": "ipswich",
+            "PrimaryName": "Ipswich",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Ipswich"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Gipeswic"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~600s A.D.",
+                    "Text": "Gipeswic",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "~700s A.D.",
+                    "Text": "Gippeswich",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Ipswich",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Ipswich",
+                    "AccessedOn": "2024.06.24"
+                }
+            ]
+        },
+        {
             "URLReference": "kingswood",
             "PrimaryName": "Kingswood",
             "Names": [
