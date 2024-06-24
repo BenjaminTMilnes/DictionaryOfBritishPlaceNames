@@ -294,6 +294,43 @@
             ]
         },
         {
+            "URLReference": "cambridge",
+            "PrimaryName": "Cambridge",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Cambridge"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Grantebrycge"
+                }
+            ],
+            "Description": "<p>from Old English <oe>Grantebrycge</oe>, 'Granta-bridge', later influenced by the word 'Camboricum', meaning 'passage' or 'ford' in a town or settlement</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~500s A.D.",
+                    "Text": "Grantebrycge",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Cambridge",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Cambridge",
+                    "AccessedOn": "2024.06.24"
+                }
+            ]
+        },
+        {
             "URLReference": "cardiff",
             "PrimaryName": "Cardiff",
             "Names": [
