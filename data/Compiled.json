@@ -65,6 +65,51 @@
             ]
         },
         {
+            "URLReference": "blackpool",
+            "PrimaryName": "Blackpool",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Blackpool"
+                }
+            ],
+            "Description": "<p>The area was originally known as 'le pull', after a local stream. The stream ran through peatlands, which discoloured the water, so the name became 'Black Poole'.</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1400s A.D.",
+                    "Text": "Pul",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1602 A.D.",
+                    "Text": "Poole",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1602 A.D.",
+                    "Text": "Blackpoole",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Blackpool",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Blackpool",
+                    "AccessedOn": "2024.06.26"
+                }
+            ]
+        },
+        {
             "URLReference": "bolton",
             "PrimaryName": "Bolton",
             "Names": [
