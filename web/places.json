@@ -1649,12 +1649,12 @@
                     "Text": "Eoforwic"
                 }
             ],
-            "Description": "<p>From Brittonic Eburakon, meaning 'place of the yew trees', which is in turn from eburos, 'yew tree', and -akon, meaning 'place of'. This became <latin>Eboracum</latin> with the Romans, and then <oe>Eoforwic</oe> with the Anglo-Saxons.</p>",
+            "Description": "<p>From Brittonic <ob>Ebur\u0101kon</ob>, meaning 'place of the yew trees', which is in turn from <ob>eburos</ob>, 'yew tree', and <ob>-\u0101kon</ob>, meaning 'place of'. This became <latin>Eboracum</latin> or <latin>Eburacum</latin> with the Romans, and then <oe>Eoforwic</oe> with the Anglo-Saxons.</p>",
             "Parts": [],
             "Timeline": [
                 {
-                    "Year": "~100s A.D.",
-                    "Text": "BC Eburakon",
+                    "Year": "~100s B.C.",
+                    "Text": "Ebur\u0101kon",
                     "Where": "",
                     "Reference": "1"
                 },
@@ -1685,7 +1685,7 @@
                 {
                     "Year": "1086 A.D.",
                     "Text": "Euruic",
-                    "Where": "",
+                    "Where": "The Domesday Book",
                     "Reference": "1"
                 },
                 {
