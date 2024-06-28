@@ -1631,6 +1631,95 @@
                     "AccessedOn": "2021.04.12"
                 }
             ]
+        },
+        {
+            "URLReference": "york",
+            "PrimaryName": "York",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "York"
+                },
+                {
+                    "Language": "L",
+                    "Text": "Eboracum"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Eoforwic"
+                }
+            ],
+            "Description": "<p>From Brittonic Eburakon, meaning 'place of the yew trees', which is in turn from eburos, 'yew tree', and -akon, meaning 'place of'. This became <latin>Eboracum</latin> with the Romans, and then <oe>Eoforwic</oe> with the Anglo-Saxons.</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "~100s A.D.",
+                    "Text": "BC Eburakon",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "~100s A.D.",
+                    "Text": "Eboracum",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "~100s A.D.",
+                    "Text": "Eburacum",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "600s A.D.",
+                    "Text": "Eoforwic",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1000s A.D.",
+                    "Text": "Everwic",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Euruic",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1300s A.D.",
+                    "Text": "Yerk",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1500s A.D.",
+                    "Text": "Yourke",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1600s A.D.",
+                    "Text": "Yarke",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "York",
+                    "Where": "",
+                    "Reference": "1"
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/York",
+                    "AccessedOn": "2024.06.28"
+                }
+            ]
         }
     ]
 }
