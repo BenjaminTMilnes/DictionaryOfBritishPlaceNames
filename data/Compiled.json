@@ -549,6 +549,51 @@
             "Demonym": "Glaswegian"
         },
         {
+            "URLReference": "huddersfield",
+            "PrimaryName": "Huddersfield",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Huddersfield"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Oderesfelt",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1120s A.D.",
+                    "Text": "Hudresfeld",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1297 A.D.",
+                    "Text": "Huderesfeld",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Huddersfield",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Huddersfield",
+                    "AccessedOn": "2024.07.01"
+                }
+            ]
+        },
+        {
             "URLReference": "ipswich",
             "PrimaryName": "Ipswich",
             "Names": [
