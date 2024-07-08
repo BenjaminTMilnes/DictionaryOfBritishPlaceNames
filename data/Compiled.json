@@ -1182,6 +1182,39 @@
             ]
         },
         {
+            "URLReference": "poole",
+            "PrimaryName": "Poole",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Poole"
+                }
+            ],
+            "Description": "<p>from Old English <oe>pol</oe>, meaning 'pool' or 'creek'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1196 A.D.",
+                    "Text": "La Pole",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Poole",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Poole",
+                    "AccessedOn": "2024.07.08"
+                }
+            ]
+        },
+        {
             "URLReference": "portsmouth",
             "PrimaryName": "Portsmouth",
             "Names": [
