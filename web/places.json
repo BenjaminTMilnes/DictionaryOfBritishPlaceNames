@@ -401,6 +401,51 @@
             "Demonym": "Cardiffian"
         },
         {
+            "URLReference": "colchester",
+            "PrimaryName": "Colchester",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Colchester"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "900s A.D.",
+                    "Text": "Colenceaster",
+                    "Where": "",
+                    "Reference": null
+                },
+                {
+                    "Year": "900s A.D.",
+                    "Text": "Colneceastre",
+                    "Where": "",
+                    "Reference": null
+                },
+                {
+                    "Year": "1400s A.D.",
+                    "Text": "Colchester",
+                    "Where": "",
+                    "Reference": null
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Colchester",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Colchester",
+                    "AccessedOn": "2024.07.22"
+                }
+            ]
+        },
+        {
             "URLReference": "coventry",
             "PrimaryName": "Coventry",
             "Names": [
