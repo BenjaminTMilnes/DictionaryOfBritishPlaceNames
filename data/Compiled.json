@@ -552,6 +552,43 @@
             "Demonym": "Edinburgher"
         },
         {
+            "URLReference": "exeter",
+            "PrimaryName": "Exeter",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Exeter"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Escanceaster"
+                }
+            ],
+            "Description": "<p>named after the river Exe, with Old English <oe>-ceaster</oe></p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "700s A.D.",
+                    "Text": "Escanceaster",
+                    "Where": "",
+                    "Reference": null
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Exeter",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Exeter",
+                    "AccessedOn": "2024.07.23"
+                }
+            ]
+        },
+        {
             "URLReference": "glasgow",
             "PrimaryName": "Glasgow",
             "Names": [
