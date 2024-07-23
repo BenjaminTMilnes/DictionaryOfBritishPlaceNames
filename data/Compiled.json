@@ -65,6 +65,51 @@
             ]
         },
         {
+            "URLReference": "blackburn",
+            "PrimaryName": "Blackburn",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Blackburn"
+                }
+            ],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Blacheburne",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Blacheburn",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1610 A.D.",
+                    "Text": "Blackburn",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Blackburn",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Blackburn",
+                    "AccessedOn": "2024.07.23"
+                }
+            ]
+        },
+        {
             "URLReference": "blackpool",
             "PrimaryName": "Blackpool",
             "Names": [
