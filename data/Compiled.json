@@ -676,6 +676,43 @@
             "Demonym": "Glaswegian"
         },
         {
+            "URLReference": "gloucester",
+            "PrimaryName": "Gloucester",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Gloucester"
+                },
+                {
+                    "Language": "L",
+                    "Text": "Glevum"
+                }
+            ],
+            "Description": "<p>from Latin <latin>Glevum</latin> and Old English <oe>-ceastre</oe></p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "48 A.D.",
+                    "Text": "Glevum",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Gloucester",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Gloucester",
+                    "AccessedOn": "2024.07.26"
+                }
+            ]
+        },
+        {
             "URLReference": "huddersfield",
             "PrimaryName": "Huddersfield",
             "Names": [
