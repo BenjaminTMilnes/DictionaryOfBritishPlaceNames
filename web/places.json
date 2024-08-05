@@ -1642,6 +1642,39 @@
             ]
         },
         {
+            "URLReference": "stockport",
+            "PrimaryName": "Stockport",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Stockport"
+                }
+            ],
+            "Description": "<p>from Old English <oe>stoc</oe>, meaning 'a hamlet', and <oe>port</oe>, meaning 'a market place'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1170 A.D.",
+                    "Text": "Stokeport",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Stockport",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Stockport",
+                    "AccessedOn": "2024.08.05"
+                }
+            ]
+        },
+        {
             "URLReference": "stoke-on-trent",
             "PrimaryName": "Stoke-on-Trent",
             "Names": [
