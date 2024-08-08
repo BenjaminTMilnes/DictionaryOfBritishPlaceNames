@@ -1,6 +1,49 @@
 {
     "Places": [
         {
+            "URLReference": "basingstoke",
+            "PrimaryName": "Basingstoke",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Basingstoke"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Embasinga stoc\u00e6"
+                }
+            ],
+            "Description": "<p>meaning 'the settlement of Basa's people'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "990 A.D.",
+                    "Text": "Embasinga stoc\u00e6",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Basingestoches",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Basingstoke",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Basingstoke",
+                    "AccessedOn": "2024.08.08"
+                }
+            ]
+        },
+        {
             "URLReference": "birmingham",
             "PrimaryName": "Birmingham",
             "Names": [
