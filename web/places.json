@@ -1,6 +1,39 @@
 {
     "Places": [
         {
+            "URLReference": "basildon",
+            "PrimaryName": "Basildon",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Basildon"
+                }
+            ],
+            "Description": "<p>possibly from the Anglo-Saxon name <oe>Boerthal</oe> and the word <oe>dun</oe>, meaning 'hill'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Belesduna",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Basildon",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Basildon",
+                    "AccessedOn": "2024.08.16"
+                }
+            ]
+        },
+        {
             "URLReference": "basingstoke",
             "PrimaryName": "Basingstoke",
             "Names": [
