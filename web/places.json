@@ -522,6 +522,39 @@
             "Demonym": "Cardiffian"
         },
         {
+            "URLReference": "cheltenham",
+            "PrimaryName": "Cheltenham",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Cheltenham"
+                }
+            ],
+            "Description": "<p>likely from Ancient British <ob>cilta</ob>, meaning 'steep hill', and Old English <oe>ham</oe>, meaning 'settlement'</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "803 A.D.",
+                    "Text": "Celtan hom",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Chintenham",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Cheltenham",
+                    "AccessedOn": "2024.09.01"
+                }
+            ]
+        },
+        {
             "URLReference": "colchester",
             "PrimaryName": "Colchester",
             "Names": [
