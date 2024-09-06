@@ -2089,6 +2089,57 @@
             ]
         },
         {
+            "URLReference": "worthing",
+            "PrimaryName": "Worthing",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Worthing"
+                }
+            ],
+            "Description": "<p>from Old English <oe>Wyrtingas</oe>, of uncertain meaning</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "960 A.D.",
+                    "Text": "Wyrtingas",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Wordinges",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Ordinges",
+                    "Where": "The Domesday Book",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1297 A.D.",
+                    "Text": "Worthing",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Worthing",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Worthing",
+                    "AccessedOn": "2024.09.07"
+                }
+            ]
+        },
+        {
             "URLReference": "york",
             "PrimaryName": "York",
             "Names": [
