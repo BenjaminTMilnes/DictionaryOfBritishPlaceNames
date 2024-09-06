@@ -743,6 +743,45 @@
             ]
         },
         {
+            "URLReference": "gateshead",
+            "PrimaryName": "Gateshead",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Gateshead"
+                }
+            ],
+            "Description": "<p>literally 'goat's head' \u2013 as in headland or hill where wild goats can be found</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "731 A.D.",
+                    "Text": "ad caput caprae",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "1190 A.D.",
+                    "Text": "Gatesheued",
+                    "Where": "",
+                    "Reference": "1"
+                },
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Gateshead",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Gateshead",
+                    "AccessedOn": "2024.09.06"
+                }
+            ]
+        },
+        {
             "URLReference": "glasgow",
             "PrimaryName": "Glasgow",
             "Names": [
