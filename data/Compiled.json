@@ -1340,6 +1340,37 @@
             ]
         },
         {
+            "URLReference": "oldham",
+            "PrimaryName": "Oldham",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Oldham"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Ealdham"
+                }
+            ],
+            "Description": "<p>from Old English <oe>eald</oe>, meaning 'old', and <oe>ham</oe>, meaning a house, dwelling, or settlement</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Oldham",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Oldham",
+                    "AccessedOn": "2025.01.01"
+                }
+            ]
+        },
+        {
             "URLReference": "oxford",
             "PrimaryName": "Oxford",
             "Names": [
