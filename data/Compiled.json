@@ -673,6 +673,33 @@
             ]
         },
         {
+            "URLReference": "doncaster",
+            "PrimaryName": "Doncaster",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Doncaster"
+                }
+            ],
+            "Description": "<p>Named after the River Don. 'Don' comes from Ancient British <ob>d\u0101n\u0101</ob>, meaning 'water'. '-caster' is from Old English <oe>-ceastre</oe>.</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Doncaster",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Doncaster",
+                    "AccessedOn": "2025.05.17"
+                }
+            ]
+        },
+        {
             "URLReference": "edinburgh",
             "PrimaryName": "Edinburgh",
             "Names": [
@@ -1628,6 +1655,41 @@
                     "Type": "website",
                     "URL": "https://en.wikipedia.org/wiki/Reading,_Berkshire",
                     "AccessedOn": "2024.06.08"
+                }
+            ]
+        },
+        {
+            "URLReference": "salisbury",
+            "PrimaryName": "Salisbury",
+            "Names": [
+                {
+                    "Language": "ME",
+                    "Text": "Salisbury"
+                },
+                {
+                    "Language": "OE",
+                    "Text": "Searoburg"
+                },
+                {
+                    "Language": "L",
+                    "Text": "Sorbiod\u016bnum"
+                }
+            ],
+            "Description": "<p>The complete etymology is unknown. By Roman times, it was known as <latin>Sorbiod\u016bnum</latin>. To the Anglo-Saxons, it was <oe>Searoburg</oe>. In Middle English, it was Sarisberie.</p>",
+            "Parts": [],
+            "Timeline": [
+                {
+                    "Year": "2000 A.D.",
+                    "Text": "Salisbury",
+                    "Where": "",
+                    "Reference": null
+                }
+            ],
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Salisbury",
+                    "AccessedOn": "2025.05.17"
                 }
             ]
         },
