@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Coventry</name>
+    </names>
+    <parts />
+    <demonyms>
+        <demonym>Coventrian</demonym>
+    </demonyms>
+    <description>
+        <d>
+            <p>there are several theories as to what the name means; it's thought that the most likely meaning is 'Coffa's tree' [--] a tree planted by or named after a person called 'Coffa', which may have marked the centre or boundary of a settlement</p>
+            <p>an alternative theory is that the name comes from 'Coventre' [--] from coven, an old variation of 'convent', and tre, a Celtic word meaning 'town'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="2000 A.D.">Coventry</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/History_of_Coventry</url>
+            <accessed-on>2021.03.28</accessed-on>
+        </reference>
+    </references>
+</place>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Gloucester</name>
+        <name language="latin">Glevum</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from Latin <latin>Glevum</latin> and Old English <oe>-ceastre</oe>
+            </p>
+        </d>
+    </description>
+    <timeline>
+        <item year="48 A.D." references="1">Glevum</item>
+        <item year="2000 A.D.">Gloucester</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Gloucester</url>
+            <accessed-on>2024.07.26</accessed-on>
+        </reference>
+    </references>
+</place>

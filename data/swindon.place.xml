@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Swindon</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from Old English <oe>swine</oe>, meaning 'swine', 'pig', and <oe>dun</oe>, meaning 'hill'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="1086 A.D." where="The Domesday Book" references="1">Suindune</item>
+        <item year="2000 A.D." references="1">Swindon</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Swindon</url>
+            <accessed-on>2024.06.16</accessed-on>
+        </reference>
+    </references>
+</place>

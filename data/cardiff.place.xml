@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Cardiff</name>
+        <name language="modern-welsh">Caerdydd</name>
+        <name language="middle-welsh">Caerdyf</name>
+    </names>
+    <parts />
+    <demonyms>
+        <demonym>Cardiffian</demonym>
+    </demonyms>
+    <description>
+        <d>
+            <p>from Welsh <welsh>caer</welsh> meaning 'fort', and <welsh>-dyf</welsh> [--] a form of <welsh>Taf</welsh>, the name of the river that flows by Cardiff Castle</p>
+        </d>
+    </description>
+    <timeline />
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Cardiff</url>
+            <accessed-on>2021.03.27</accessed-on>
+        </reference>
+    </references>
+</place>

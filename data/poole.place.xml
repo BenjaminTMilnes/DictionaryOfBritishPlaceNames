@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Poole</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from Old English <oe>pol</oe>, meaning 'pool' or 'creek'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="1196 A.D." references="1">La Pole</item>
+        <item year="2000 A.D.">Poole</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Poole</url>
+            <accessed-on>2024.07.08</accessed-on>
+        </reference>
+    </references>
+</place>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Birmingham</name>
+        <name language="old-english">Beormingahām</name>
+    </names>
+    <parts>
+        <part language="old-english" type="personal-name">Beorma</part>
+        <part language="old-english" type="suffix">inga</part>
+        <part language="old-english" type="suffix">ham</part>
+    </parts>
+    <demonyms />
+    <description>
+        <d>
+            <p>The name 'Birmingham' is from Old English <oe>Beormingahām</oe>, meaning the home or settlement of the <oe>Beormingas</oe> [--] a clan whose name literally means 'Beorma's people'. <sup>[1]</sup>
+            </p>
+        </d>
+    </description>
+    <timeline>
+        <item year="~600s A.D." references="1">Beormingahām</item>
+        <item year="1086 A.D." where="The Domesday Book" references="2">Bermingehā</item>
+        <item year="2000 A.D.">Birmingham</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Birmingham</url>
+            <accessed-on>2021.03.27</accessed-on>
+        </reference>
+        <reference type="website" key="2">
+            <url>https://opendomesday.org/place/SP0786/birmingham/</url>
+            <accessed-on>2021.03.30</accessed-on>
+        </reference>
+    </references>
+</place>

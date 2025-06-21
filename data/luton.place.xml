@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Luton</name>
+        <name language="old-english">Lygetun</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from Old English <oe>Lygetun</oe>, meaning 'town on the River Lea'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="~700s A.D." references="1">Lygetun</item>
+        <item year="1086 A.D." where="The Domesday Book" references="1">Loitone</item>
+        <item year="1086 A.D." where="The Domesday Book" references="1">Lintone</item>
+        <item year="2000 A.D.">Luton</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Luton</url>
+            <accessed-on>2024.06.06</accessed-on>
+        </reference>
+    </references>
+</place>

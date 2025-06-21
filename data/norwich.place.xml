@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Norwich</name>
+        <name language="old-english">Norðwic</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from Old English <oe>Norðwic</oe>, meaning 'north farm'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="~600s A.D." references="1">Norðwic</item>
+        <item year="2000 A.D.">Norwich</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Norwich</url>
+            <accessed-on>2024.06.10</accessed-on>
+        </reference>
+    </references>
+</place>

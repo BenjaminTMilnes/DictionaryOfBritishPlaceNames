@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Cambridge</name>
+        <name language="old-english">Grantebrycge</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from Old English <oe>Grantebrycge</oe>, 'Granta-bridge', later influenced by the word 'Camboricum', meaning 'passage' or 'ford' in a town or settlement</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="~500s A.D." references="1">Grantebrycge</item>
+        <item year="2000 A.D.">Cambridge</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Cambridge</url>
+            <accessed-on>2024.06.24</accessed-on>
+        </reference>
+    </references>
+</place>

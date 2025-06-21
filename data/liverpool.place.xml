@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Liverpool</name>
+        <name language="modern-welsh">Lerpwl</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from Old English <oe>lifer</oe> meaning 'thick water' or 'muddy water', and <oe>pōl</oe> meaning 'pool' or 'creek'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="1190 A.D.">Liuerpul</item>
+        <item year="1418 A.D.">Leyrpole</item>
+        <item year="2000 A.D.">Liverpool</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Liverpool</url>
+            <accessed-on>2021.03.27</accessed-on>
+        </reference>
+    </references>
+</place>

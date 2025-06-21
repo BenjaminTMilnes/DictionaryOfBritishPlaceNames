@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Cheltenham</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>likely from Ancient British <ob>cilta</ob>, meaning 'steep hill', and Old English <oe>ham</oe>, meaning 'settlement'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="803 A.D." references="1">Celtan hom</item>
+        <item year="1086 A.D." where="The Domesday Book" references="1">Chintenham</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Cheltenham</url>
+            <accessed-on>2024.09.01</accessed-on>
+        </reference>
+    </references>
+</place>

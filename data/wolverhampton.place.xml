@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Wolverhampton</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>Most likely from Old English <oe>Wulfrūnehēantūn</oe>, which is from <oe>Wulfrūn</oe>, a personal name, <oe>hēan</oe>, meaning 'high', and <oe>tūn</oe>, meaning 'enclosure' or 'farm'.</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="1086 A.D." where="The Domesday Book" references="2">Hantone</item>
+        <item year="1381 A.D." references="1">Wolveren Hampton</item>
+        <item year="2000 A.D.">Wolverhampton</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Wolverhampton</url>
+            <accessed-on>2021.04.12</accessed-on>
+        </reference>
+        <reference type="website" key="2">
+            <url>https://opendomesday.org/place/SO9198/wolverhampton/</url>
+            <accessed-on>2021.04.12</accessed-on>
+        </reference>
+    </references>
+</place>

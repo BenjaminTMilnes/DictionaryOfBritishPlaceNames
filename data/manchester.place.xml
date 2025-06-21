@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Manchester</name>
+        <name language="latin">Mamucium, Mancunio</name>
+        <name language="modern-welsh">Manceinion</name>
+    </names>
+    <parts />
+    <demonyms>
+        <demonym>Mancunian</demonym>
+    </demonyms>
+    <description>
+        <d>
+            <p>from Brittonic <ob>*mamm-</ob> meaning 'breast', in reference to a 'breast-like hill', and Old English <oe>-ceaster</oe>, meaning 'fort', 'fortified town'</p>
+        </d>
+    </description>
+    <timeline />
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Manchester</url>
+            <accessed-on>2021.03.27</accessed-on>
+        </reference>
+    </references>
+</place>

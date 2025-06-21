@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Kingswood</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>the meaning is unchanged from the original; 'King's Wood' [--] originally a royal hunting estate</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="2000 A.D.">Kingswood</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Kingswood,_South_Gloucestershire</url>
+            <accessed-on>2024.06.21</accessed-on>
+        </reference>
+    </references>
+</place>
