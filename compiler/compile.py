@@ -123,13 +123,7 @@ class Compiler(object):
 
             return place 
 
-    def compile(self):
-
-        abbreviations = self.getAbbreviations()
-        placeFilePaths = self.getPlaceFilePaths()
-
-        places = [self.compilePlace(filePath, abbreviations) for filePath in placeFilePaths]
-
+    def exportPlacesAsXML(self, places):        
         for place in places:
             print(place["PrimaryName"])
 
@@ -231,8 +225,12 @@ class Compiler(object):
             ElementTree.indent(tree, space="    ", level=0)
             tree.write(filePath, encoding="utf-8", xml_declaration=True)
 
+    def compile(self):
 
-        return
+        abbreviations = self.getAbbreviations()
+        placeFilePaths = self.getPlaceFilePaths()
+
+        places = [self.compilePlace(filePath, abbreviations) for filePath in placeFilePaths]
 
         data = {"Places": places}
 
