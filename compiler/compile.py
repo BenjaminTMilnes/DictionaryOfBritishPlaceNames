@@ -2,6 +2,7 @@ import os
 import json 
 import re 
 import datetime
+import xml.etree.cElementTree as ElementTree
 
 
 class Compiler(object):
@@ -80,7 +81,7 @@ class Compiler(object):
 
                 if section == "description":
                     text = line.strip()
-                    text = text.replace(" - ", " – ")
+                    text = text.replace(" - ", " [--] ")
                     text = text.replace("OE", "Old English")
                     text = text.replace("AS", "Anglo-Saxon")
                     text = re.sub(r"\[(\d+)\]", r"<sup>[\1]</sup>", text)
@@ -128,6 +129,90 @@ class Compiler(object):
         placeFilePaths = self.getPlaceFilePaths()
 
         places = [self.compilePlace(filePath, abbreviations) for filePath in placeFilePaths]
+
+        for place in places[0:3]:
+            filePath = os.path.join("../data", place["PrimaryName"].lower() + ".xml")
+
+            e1 = ElementTree.Element("place")
+
+            e2a = ElementTree.SubElement(e1, "names")
+            e2b = ElementTree.SubElement(e1, "parts")
+            e2c = ElementTree.SubElement(e1, "demonyms")
+            e2d = ElementTree.SubElement(e1, "description")
+            e2e = ElementTree.SubElement(e1, "timeline")
+            e2f = ElementTree.SubElement(e1, "references")
+
+            for name in place["Names"]:
+                e3 = ElementTree.SubElement(e2a, "name")
+
+                language = ""
+
+                if name["Language"] == "ME":
+                    language = "modern-english"
+                if name["Language"] == "OE":
+                    language = "old-english"
+                if name["Language"] == "L":
+                    language = "latin"
+
+                e3.set("language", language)
+                e3.text = name["Text"]
+
+            for part in place["Parts"]:
+                e3 = ElementTree.SubElement(e2b, "part")
+
+                language = ""
+
+                if part["Language"] == "ME":
+                    language = "modern-english"
+                if part["Language"] == "OE":
+                    language = "old-english"
+                if part["Language"] == "L":
+                    language = "latin"
+
+                e3.set("language", language)
+                e3.set("type", part["Type"].replace(" ", "-"))
+                e3.text = part["Text"]
+
+            if "Demonym" in place:
+                e3 = ElementTree.SubElement(e2c, "demonym")
+                e3.text = place["Demonym"]
+                
+            e2ds = ElementTree.fromstring(place["Description"])
+            e2d.append(e2ds)
+
+            for item in place["Timeline"]:
+                e4 = ElementTree.SubElement(e2e, "item")
+
+                e4.text = item["Text"]
+                e4.set("year", item["Year"])
+
+                if item["Where"] != "":
+                    e4.set("where", item["Where"])
+
+                if "Reference" in item and item["Reference"] != None:
+                    e4.set("references", item["Reference"])
+
+            n = 1
+
+            for reference in place["References"]:
+                e4 = ElementTree.SubElement(e2f, "reference")
+
+                e4.set("type", reference["Type"])
+                e4.set("key", str(n))
+                n += 1
+
+                e5 = ElementTree.SubElement(e4, "url")
+                e5.text = reference["URL"]
+
+                e6 = ElementTree.SubElement(e4, "accessed-on")
+                e6.text = reference["AccessedOn"]
+
+            tree = ElementTree.ElementTree(e1)
+            ElementTree.indent(tree, space="    ", level=0)
+            tree.write(filePath, encoding="utf-8", xml_declaration=True)
+
+
+        return
 
         data = {"Places": places}
 
