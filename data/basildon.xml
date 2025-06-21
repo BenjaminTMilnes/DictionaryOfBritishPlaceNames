@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Basildon</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <p>possibly from the Anglo-Saxon name <oe>Boerthal</oe> and the word <oe>dun</oe>, meaning 'hill'</p>
+    </description>
+    <timeline>
+        <item year="1086 A.D." where="The Domesday Book" references="1">Belesduna</item>
+        <item year="2000 A.D.">Basildon</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Basildon</url>
+            <accessed-on>2024.08.16</accessed-on>
+        </reference>
+    </references>
+</place>
