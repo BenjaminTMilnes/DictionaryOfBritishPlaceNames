@@ -29,6 +29,15 @@ class Compiler(object):
             if a.endswith(".place"):
                 filePaths.append(os.path.join("../data", a))
 
+        return filePaths
+
+    def getPlaceXMLFilePaths(self):
+        filePaths = []
+
+        for a in os.listdir("../data"):
+            if a.endswith(".place.xml"):
+                filePaths.append(os.path.join("../data", a))
+
         return filePaths 
 
     def compilePlace(self, filePath, abbreviations):
@@ -225,12 +234,20 @@ class Compiler(object):
             ElementTree.indent(tree, space="    ", level=0)
             tree.write(filePath, encoding="utf-8", xml_declaration=True)
 
+    def compilePlaceFromXML(self, filePath, abbreviations):
+        tree = ElementTree.parse(filePath)
+
+        place = {}
+
+        return place
+
     def compile(self):
 
         abbreviations = self.getAbbreviations()
         placeFilePaths = self.getPlaceFilePaths()
+        placeXMLFilePaths = self.getPlaceXMLFilePaths()
 
-        places = [self.compilePlace(filePath, abbreviations) for filePath in placeFilePaths]
+        places = [self.compilePlaceFromXML(filePath, abbreviations) for filePath in placeXMLFilePaths]
 
         data = {"Places": places}
 
