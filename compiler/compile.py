@@ -54,7 +54,7 @@ class Compiler(object):
             section = "names"
 
             for line in lines:
-                if section == "names" and not re.match("^[A-Z]+: ", line):
+                if section == "names" and not re.match(r"^[A-Z]+: ", line):
                     section = "description"
                 if line.startswith("parts:"):
                     section = "parts"
@@ -70,7 +70,7 @@ class Compiler(object):
                     continue
 
                 if section == "names":
-                    m = re.match("^([A-Za-z]+): (.+)", line)
+                    m = re.match(r"^([A-Za-z]+): (.+)", line)
 
                     name = {}
 
@@ -88,7 +88,7 @@ class Compiler(object):
                     place["Description"] += "<p>" + text + "</p>"
 
                 if section == "parts":
-                    m = re.match("^([A-Za-z]+)\s+([^,]+),\s+(.+)", line)
+                    m = re.match(r"^([A-Za-z]+)\s+([^,]+),\s+(.+)", line)
 
                     part = {}
 
@@ -130,7 +130,7 @@ class Compiler(object):
 
         places = [self.compilePlace(filePath, abbreviations) for filePath in placeFilePaths]
 
-        for place in places[0:3]:
+        for place in places:
             filePath = os.path.join("../data", place["PrimaryName"].lower() + ".xml")
 
             e1 = ElementTree.Element("place")
