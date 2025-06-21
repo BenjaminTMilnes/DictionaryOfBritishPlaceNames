@@ -7,7 +7,9 @@
     <parts />
     <demonyms />
     <description>
-        <p>meaning 'the settlement of Basa's people'</p>
+        <d>
+            <p>meaning 'the settlement of Basa's people'</p>
+        </d>
     </description>
     <timeline>
         <item year="990 A.D." references="1">Embasinga stocæ</item>

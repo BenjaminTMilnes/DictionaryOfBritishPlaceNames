@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Blackpool</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>The area was originally known as 'le pull', after a local stream. The stream ran through peatlands, which discoloured the water, so the name became 'Black Poole'.</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="1400s A.D." references="1">Pul</item>
+        <item year="1602 A.D." references="1">Poole</item>
+        <item year="1602 A.D." references="1">Blackpoole</item>
+        <item year="2000 A.D.">Blackpool</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Blackpool</url>
+            <accessed-on>2024.06.26</accessed-on>
+        </reference>
+    </references>
+</place>

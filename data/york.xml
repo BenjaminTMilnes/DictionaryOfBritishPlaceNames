@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">York</name>
+        <name language="latin">Eboracum</name>
+        <name language="old-english">Eoforwic</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>From Brittonic <ob>Eburākon</ob>, meaning 'place of the yew trees', which is in turn from <ob>eburos</ob>, 'yew tree', and <ob>-ākon</ob>, meaning 'place of'. This became <latin>Eboracum</latin> or <latin>Eburacum</latin> with the Romans, and then <oe>Eoforwic</oe> with the Anglo-Saxons.</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="~100s B.C." references="1">Eburākon</item>
+        <item year="~100s A.D." references="1">Eboracum</item>
+        <item year="~100s A.D." references="1">Eburacum</item>
+        <item year="600s A.D." references="1">Eoforwic</item>
+        <item year="1000s A.D." references="1">Everwic</item>
+        <item year="1086 A.D." where="The Domesday Book" references="1">Euruic</item>
+        <item year="1300s A.D." references="1">Yerk</item>
+        <item year="1500s A.D." references="1">Yourke</item>
+        <item year="1600s A.D." references="1">Yarke</item>
+        <item year="2000 A.D." references="1">York</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/York</url>
+            <accessed-on>2024.06.28</accessed-on>
+        </reference>
+    </references>
+</place>

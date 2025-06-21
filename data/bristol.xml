@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Bristol</name>
+        <name language="modern-welsh">Bryste</name>
+        <name language="old-english">Brycgstow</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>The name 'Bristol' is from Old English <oe>Brycgstow</oe>, meaning 'place at the bridge'. <sup>[1]</sup>
+            </p>
+        </d>
+    </description>
+    <timeline>
+        <item year="2000 A.D.">Bristol</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Bristol</url>
+            <accessed-on>2021.03.27</accessed-on>
+        </reference>
+    </references>
+</place>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Edinburgh</name>
+        <name language="">Edinburgh</name>
+        <name language="">Dùn Èideann</name>
+        <name language="modern-welsh">Caeredin</name>
+    </names>
+    <parts />
+    <demonyms>
+        <demonym>Edinburgher</demonym>
+    </demonyms>
+    <description>
+        <d>
+            <p>from Cumbric <cumbric>Eidyn</cumbric>, of unknown meaning, and Old English <oe>burh</oe>, meaning 'fortified settlement'</p>
+        </d>
+    </description>
+    <timeline />
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Edinburgh</url>
+            <accessed-on>2021.03.27</accessed-on>
+        </reference>
+    </references>
+</place>

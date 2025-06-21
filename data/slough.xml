@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Slough</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description />
+    <timeline>
+        <item year="1195 A.D." references="1">Slo</item>
+        <item year="1336 A.D." references="2">Sloo</item>
+        <item year="1437 A.D." references="2">Le Slowe</item>
+        <item year="1437 A.D." references="2">Slowe</item>
+        <item year="1437 A.D." references="2">Slow</item>
+        <item year="2000 A.D.">Slough</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Slough</url>
+            <accessed-on>2024.06.21</accessed-on>
+        </reference>
+        <reference type="website" key="2">
+            <url>https://en.wikipedia.org/wiki/History_of_Slough</url>
+            <accessed-on>2024.06.21</accessed-on>
+        </reference>
+    </references>
+</place>

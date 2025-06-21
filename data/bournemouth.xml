@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Bournemouth</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from Old English <oe>burna</oe>, meaning 'stream', and <oe>muða</oe>, meaning 'the mouth of a river or estuary'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="1406 A.D." references="1">Bournemothe</item>
+        <item year="1500s A.D." references="1">Bourne Mouth</item>
+        <item year="2000 A.D.">Bournemouth</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Bournemouth</url>
+            <accessed-on>2024.06.12</accessed-on>
+        </reference>
+    </references>
+</place>

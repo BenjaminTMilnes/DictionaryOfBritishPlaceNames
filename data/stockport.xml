@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Stockport</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from Old English <oe>stoc</oe>, meaning 'a hamlet', and <oe>port</oe>, meaning 'a market place'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="1170 A.D." references="1">Stokeport</item>
+        <item year="2000 A.D.">Stockport</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Stockport</url>
+            <accessed-on>2024.08.05</accessed-on>
+        </reference>
+    </references>
+</place>

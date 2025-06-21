@@ -6,7 +6,9 @@
     <parts />
     <demonyms />
     <description>
-        <p>possibly from the Anglo-Saxon name <oe>Boerthal</oe> and the word <oe>dun</oe>, meaning 'hill'</p>
+        <d>
+            <p>possibly from the Anglo-Saxon name <oe>Boerthal</oe> and the word <oe>dun</oe>, meaning 'hill'</p>
+        </d>
     </description>
     <timeline>
         <item year="1086 A.D." where="The Domesday Book" references="1">Belesduna</item>

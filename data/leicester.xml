@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Leicester</name>
+        <name language="modern-welsh">Caerlŷr</name>
+        <name language="latin">Legorensis civitatis</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description>
+        <d>
+            <p>from ligore, the name of a people, who were themselves named after the River Ligor (now the River Soar), and Old English <oe>ceaster</oe>, meaning 'fort', 'fortified town'</p>
+        </d>
+    </description>
+    <timeline>
+        <item year="~800s A.D.">Legorensis civitatis</item>
+        <item year="924 A.D." where="The Anglo-Saxon Chronicle">Ligera ceastre</item>
+        <item year="1086 A.D." where="The Domesday Book">Ledecestre</item>
+        <item year="2000 A.D.">Leicester</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Leicester</url>
+            <accessed-on>2021.03.27</accessed-on>
+        </reference>
+    </references>
+</place>

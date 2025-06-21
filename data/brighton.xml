@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Brighton</name>
+    </names>
+    <parts>
+        <part language="old-english" type="personal-name">Beorthelm</part>
+        <part language="old-english" type="suffix">tūn</part>
+    </parts>
+    <demonyms />
+    <description>
+        <d>
+            <p>The name 'Brighton' comes from Old English <oe>Beorthelm</oe>, an Anglo-Saxon personal name, and <oe>tūn</oe> meaning 'town'. <sup>[1]</sup>
+            </p>
+        </d>
+    </description>
+    <timeline>
+        <item year="1086 A.D." where="The Domesday Book" references="2">Bristelmestune</item>
+        <item year="~1300-1800 A.D." references="1">Brighthelmstone</item>
+        <item year="~1300-1800 A.D." references="1">Brighthelmston</item>
+        <item year="1660 A.D." references="1">Brighton</item>
+        <item year="2000 A.D.">Brighton</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Brighton</url>
+            <accessed-on>2021.03.29</accessed-on>
+        </reference>
+        <reference type="website" key="2">
+            <url>https://opendomesday.org/place/TQ3105/brighton/</url>
+            <accessed-on>2021.03.30</accessed-on>
+        </reference>
+    </references>
+</place>

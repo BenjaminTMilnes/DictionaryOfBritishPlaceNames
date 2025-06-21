@@ -54,7 +54,7 @@ class Compiler(object):
             section = "names"
 
             for line in lines:
-                if section == "names" and not re.match(r"^[A-Z]+: ", line):
+                if section == "names" and not re.match(r"^[A-Za-z]+: ", line):
                     section = "description"
                 if line.startswith("parts:"):
                     section = "parts"
@@ -131,6 +131,8 @@ class Compiler(object):
         places = [self.compilePlace(filePath, abbreviations) for filePath in placeFilePaths]
 
         for place in places:
+            print(place["PrimaryName"])
+
             filePath = os.path.join("../data", place["PrimaryName"].lower() + ".xml")
 
             e1 = ElementTree.Element("place")
@@ -153,6 +155,10 @@ class Compiler(object):
                     language = "old-english"
                 if name["Language"] == "L":
                     language = "latin"
+                if name["Language"] == "MW":
+                    language = "modern-welsh"
+                if name["Language"] == "MidW":
+                    language = "middle-welsh"
 
                 e3.set("language", language)
                 e3.text = name["Text"]
@@ -168,6 +174,10 @@ class Compiler(object):
                     language = "old-english"
                 if part["Language"] == "L":
                     language = "latin"
+                if name["Language"] == "MW":
+                    language = "modern-welsh"
+                if name["Language"] == "MidW":
+                    language = "middle-welsh"
 
                 e3.set("language", language)
                 e3.set("type", part["Type"].replace(" ", "-"))
@@ -177,8 +187,10 @@ class Compiler(object):
                 e3 = ElementTree.SubElement(e2c, "demonym")
                 e3.text = place["Demonym"]
                 
-            e2ds = ElementTree.fromstring(place["Description"])
-            e2d.append(e2ds)
+            if "Description" in place and place["Description"] != "":
+                print(place["Description"])
+                e2ds = ElementTree.fromstring("<d>" + place["Description"] + "</d>")
+                e2d.append(e2ds)
 
             for item in place["Timeline"]:
                 e4 = ElementTree.SubElement(e2e, "item")

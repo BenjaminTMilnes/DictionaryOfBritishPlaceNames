@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+    <names>
+        <name language="modern-english">Leeds</name>
+        <name language="modern-welsh">Lloed</name>
+    </names>
+    <parts />
+    <demonyms />
+    <description />
+    <timeline>
+        <item year="731 A.D." where="The Ecclesiastical History of the English People by Bede">Loidis</item>
+        <item year="1086 A.D." where="The Domesday Book">Ledes</item>
+        <item year="1725 A.D." where="a map by John Cossins">Leedes</item>
+        <item year="2000 A.D.">Leeds</item>
+    </timeline>
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/History_of_Leeds</url>
+            <accessed-on>2021.03.27</accessed-on>
+        </reference>
+    </references>
+</place>
