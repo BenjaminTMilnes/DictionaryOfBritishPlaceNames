@@ -133,7 +133,7 @@ class Compiler(object):
         for place in places:
             print(place["PrimaryName"])
 
-            filePath = os.path.join("../data", place["PrimaryName"].lower() + ".xml")
+            filePath = os.path.join("../data", place["PrimaryName"].lower() + ".place.xml")
 
             e1 = ElementTree.Element("place")
 
