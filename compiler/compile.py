@@ -159,6 +159,10 @@ class Compiler(object):
                     language = "modern-welsh"
                 if name["Language"] == "MidW":
                     language = "middle-welsh"
+                if name["Language"] == "MS":
+                    language = "modern-scots"
+                if name["Language"] == "MSG":
+                    language = "modern-scottish-gaelic"
 
                 e3.set("language", language)
                 e3.text = name["Text"]
@@ -178,6 +182,10 @@ class Compiler(object):
                     language = "modern-welsh"
                 if name["Language"] == "MidW":
                     language = "middle-welsh"
+                if name["Language"] == "MS":
+                    language = "modern-scots"
+                if name["Language"] == "MSG":
+                    language = "modern-scottish-gaelic"
 
                 e3.set("language", language)
                 e3.set("type", part["Type"].replace(" ", "-"))

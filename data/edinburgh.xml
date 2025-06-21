@@ -2,8 +2,8 @@
 <place>
     <names>
         <name language="modern-english">Edinburgh</name>
-        <name language="">Edinburgh</name>
-        <name language="">Dùn Èideann</name>
+        <name language="modern-scots">Edinburgh</name>
+        <name language="modern-scottish-gaelic">Dùn Èideann</name>
         <name language="modern-welsh">Caeredin</name>
     </names>
     <parts />
