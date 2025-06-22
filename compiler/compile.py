@@ -241,9 +241,9 @@ class Compiler(object):
             "URLReference": tree.find("names").find("name").text.lower(),
             "PrimaryName": tree.find("names").find("name").text,
             "Names": [],
+            "Parts": [],
             "Demonyms": [],
             "Description": "",
-            "Parts": [],
             "Timeline": [],
             "References": []
         }
