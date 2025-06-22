@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<place>
+<place latitude="53.578348" longitude="-2.429801">
     <names>
         <name language="modern-english">Bolton</name>
         <name language="old-english">Bothltun</name>
     </names>
     <parts />
-    <demonyms />
+    <demonyms>
+        <demonym>Boltonian</demonym>
+    </demonyms>
     <description />
     <timeline>
         <item year="~700s A.D." references="1">Bothltun</item>

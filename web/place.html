@@ -14,13 +14,14 @@
     <div class="place-demonyms" ng-show="place.Demonyms.length > 0">
         <p>Demonyms: {{demonyms}}</p>
     </div>
+    <p ng-show="place.Coordinates.Latitude != ''"><a href="https://www.google.com/maps/@{{place.Coordinates.Latitude}},{{place.Coordinates.Longitude}},500m" target="_blank">View on Google Maps &rarr;</a></p>
     <div compile="place.Description" class="place-description"></div>
     <div class="place-parts" ng-show="place.Parts.length > 0">
         <h3>Parts</h3>
         <table>
             <tbody>
                 <tr ng-repeat="part in place.Parts">
-                    <td>{{getLanguage(part.Language)}}</td>
+                    <td>{{part.Language}}</td>
                     <td>{{part.Type}}</td>
                     <td>{{part.Text}}</td>
                 </tr>

@@ -163,8 +163,8 @@
         },
         {
             "Coordinates": {
-                "Latitude": "",
-                "Longitude": ""
+                "Latitude": "52.481250",
+                "Longitude": "-1.898402"
             },
             "URLReference": "birmingham",
             "PrimaryName": "Birmingham",
@@ -345,8 +345,8 @@
         },
         {
             "Coordinates": {
-                "Latitude": "",
-                "Longitude": ""
+                "Latitude": "53.578348",
+                "Longitude": "-2.429801"
             },
             "URLReference": "bolton",
             "PrimaryName": "Bolton",
@@ -361,7 +361,11 @@
                 }
             ],
             "Parts": [],
-            "Demonyms": [],
+            "Demonyms": [
+                {
+                    "Text": "Boltonian"
+                }
+            ],
             "Description": "",
             "Timeline": [
                 {
