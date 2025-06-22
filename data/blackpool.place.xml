@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<place>
+<place latitude="53.818002" longitude="-3.050913">
     <names>
         <name language="modern-english">Blackpool</name>
     </names>
     <parts />
-    <demonyms />
+    <demonyms>
+        <demonym>Blackpudlian</demonym>
+    </demonyms>
     <description>
-        <d>
-            <p>The area was originally known as 'le pull', after a local stream. The stream ran through peatlands, which discoloured the water, so the name became 'Black Poole'.</p>
-        </d>
+        <p>The area was originally known as [lqm]le pull[rqm], after a local stream. The stream ran through peatlands, which discoloured the water, so the name became [lqm]Black Poole[rqm].</p>
     </description>
     <timeline>
         <item year="1400s A.D." references="1">Pul</item>

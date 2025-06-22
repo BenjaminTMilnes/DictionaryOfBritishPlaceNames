@@ -192,3 +192,7 @@ latin,
 greek {
     font-style: italic;
 }
+
+river-name {
+    font-weight: bold;
+}

@@ -237,7 +237,11 @@ class Compiler(object):
     def compilePlaceFromXML(self, filePath, abbreviations):
         tree = ElementTree.parse(filePath)
 
+        latitude = tree._root.get("latitude", "")
+        longitude = tree._root.get("longitude", "") 
+
         place = {
+            "Coordinates": { "Latitude": latitude, "Longitude": longitude },
             "URLReference": tree.find("names").find("name").text.lower(),
             "PrimaryName": tree.find("names").find("name").text,
             "Names": [],
