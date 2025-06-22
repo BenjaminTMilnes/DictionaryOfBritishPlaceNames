@@ -432,9 +432,20 @@
                     "Text": "Bournemouth"
                 }
             ],
-            "Parts": [],
+            "Parts": [
+                {
+                    "Language": "old-english",
+                    "Text": "burna",
+                    "Type": "noun"
+                },
+                {
+                    "Language": "old-english",
+                    "Text": "mu\u00f0a",
+                    "Type": "suffix"
+                }
+            ],
             "Demonyms": [],
-            "Description": "<p>from Old English <oe>burna</oe>, meaning 'stream', and <oe>mu\u00f0a</oe>, meaning 'the mouth of a river or estuary'</p>",
+            "Description": "<p>from Old English <old-english>burna</old-english>, meaning \u2018stream\u2019, and <old-english>mu\u00f0a</old-english>, meaning \u2018the mouth of a river or estuary\u2019</p>",
             "Timeline": [
                 {
                     "Year": "1406 A.D.",
