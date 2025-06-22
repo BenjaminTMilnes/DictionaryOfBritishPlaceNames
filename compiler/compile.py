@@ -260,7 +260,7 @@ class Compiler(object):
             description = description.replace("</description>", "")
             description = description.replace("<description />", "")
             
-            description = description.replace("[--]", "&endash;")
+            description = description.replace("[--]", "–")
 
             description = re.sub(r"^\s+", "", description)
             description = re.sub(r"\s+$", "", description)
