@@ -174,7 +174,21 @@ a:hover {
         font-size: 17px;
     }
 }
-
-mide, midw, oe, ow, ob, old-british, l, latin {
+ 
+english,
+modern-english,
+middle-english,
+old-english,
+welsh,
+modern-welsh,
+middle-welsh,
+old-welsh,
+ancient-british,
+scottish,
+modern-scots,
+modern-scottish-gaelic,
+modern-irish-gaelic,
+latin,
+greek {
     font-style: italic;
 }

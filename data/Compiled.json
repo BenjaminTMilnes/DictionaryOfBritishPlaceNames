@@ -60,8 +60,12 @@
                 }
             ],
             "Parts": [],
-            "Demonyms": [],
-            "Description": "<p>possibly from the Anglo-Saxon name <oe>Boerthal</oe> and the word <oe>dun</oe>, meaning 'hill'</p>",
+            "Demonyms": [
+                {
+                    "Text": "Basildonian"
+                }
+            ],
+            "Description": "<p>possibly from the Anglo-Saxon name <old-english>Boerthal</old-english> and the word <old-english>dun</old-english>, meaning \u2018hill\u2019</p>",
             "Timeline": [
                 {
                     "Year": "1086 A.D.",

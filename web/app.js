@@ -175,17 +175,19 @@ application.controller("PlaceController", ["$scope", "dataService", "$routeParam
         $scope.places = data.Places;
         $scope.place = $scope.places.filter(p => p.URLReference == $routeParams.reference)[0];
 
-        var l = $scope.place.Names.filter(n => n.Language == "L");
-        var mw = $scope.place.Names.filter(n => n.Language == "MW");
-        var mi = $scope.place.Names.filter(n => n.Language == "MI");
-        var ms = $scope.place.Names.filter(n => n.Language == "MS");
-        var msg = $scope.place.Names.filter(n => n.Language == "MSG");
+        var l = $scope.place.Names.filter(n => n.Language == "latin");
+        var mw = $scope.place.Names.filter(n => n.Language == "modern-welsh");
+        var mi = $scope.place.Names.filter(n => n.Language == "modern-irish-gaelic");
+        var ms = $scope.place.Names.filter(n => n.Language == "modern-scots");
+        var msg = $scope.place.Names.filter(n => n.Language == "modern-scottish-gaelic");
 
         $scope.nameInLatin = (l.length > 0) ? l[0].Text : "";
         $scope.nameInModernWelsh = (mw.length > 0) ? mw[0].Text : "";
         $scope.nameInModernIrish = (mi.length > 0) ? mi[0].Text : "";
         $scope.nameInModernScots = (ms.length > 0) ? ms[0].Text : "";
         $scope.nameInModernScottishGaelic = (msg.length > 0) ? msg[0].Text : "";
+
+        $scope.demonyms = $scope.place.Demonyms.map(d => d.Text).join(", ");
     });
 
 }]);

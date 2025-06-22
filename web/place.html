@@ -11,6 +11,9 @@
             <span ng-show="nameInModernScottishGaelic != ''" class="place-modernname">Scottish Gaelic: <i>{{nameInModernScottishGaelic}}</i></span>
         </p>
     </div>
+    <div class="place-demonyms" ng-show="place.Demonyms.length > 0">
+        <p>Demonyms: {{demonyms}}</p>
+    </div>
     <div compile="place.Description" class="place-description"></div>
     <div class="place-timeline" ng-show="place.Timeline.length > 0">
         <h3>Timeline</h3>
@@ -45,9 +48,9 @@
     </div>
     <div class="place-seemore">
         <h3>See more</h3>
-        <p>The original .place file that this page was generated from can be viewed at <a
-                href="https://github.com/BenjaminTMilnes/DictionaryOfBritishPlaceNames/blob/main/data/{{place.URLReference}}.place"
-                target="_blank">https://github.com/BenjaminTMilnes/DictionaryOfBritishPlaceNames/blob/main/data/{{place.URLReference}}.place</a>
+        <p>The original .place.xml file that this page was generated from can be viewed at <a
+                href="https://github.com/BenjaminTMilnes/DictionaryOfBritishPlaceNames/blob/main/data/{{place.URLReference}}.place.xml"
+                target="_blank">https://github.com/BenjaminTMilnes/DictionaryOfBritishPlaceNames/blob/main/data/{{place.URLReference}}.place.xml</a>
         </p>
     </div>
 </div>
