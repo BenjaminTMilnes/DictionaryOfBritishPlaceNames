@@ -12,7 +12,7 @@
         </p>
     </div>
     <div class="place-demonyms" ng-show="place.Demonyms.length > 0">
-        <p>Demonyms: {{demonyms}}</p>
+        <p><span ng-show="place.Demonyms.length == 1">Demonym:</span><span ng-show="place.Demonyms.length > 1">Demonyms:</span> {{demonyms}}</p>
     </div>
     <p ng-show="place.Coordinates.Latitude != ''"><a href="https://www.google.com/maps/@{{place.Coordinates.Latitude}},{{place.Coordinates.Longitude}},500m" target="_blank">View on Google Maps &rarr;</a></p>
     <div compile="place.Description" class="place-description"></div>

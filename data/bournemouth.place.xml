@@ -3,12 +3,13 @@
     <names>
         <name language="modern-english">Bournemouth</name>
     </names>
-    <parts />
+    <parts>
+        <part language="old-english" type="noun">burna</part>
+        <part language="old-english" type="suffix">muða</part>
+    </parts>
     <demonyms />
     <description>
-        <d>
-            <p>from Old English <oe>burna</oe>, meaning 'stream', and <oe>muða</oe>, meaning 'the mouth of a river or estuary'</p>
-        </d>
+        <p>from Old English <old-english>burna</old-english>, meaning [lqm]stream[rqm], and <old-english>muða</old-english>, meaning [lqm]the mouth of a river or estuary[rqm]</p>
     </description>
     <timeline>
         <item year="1406 A.D." references="1">Bournemothe</item>
