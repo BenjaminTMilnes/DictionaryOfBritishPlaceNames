@@ -3,11 +3,28 @@
     <names>
         <name language="modern-english">Bradford</name>
     </names>
-    <parts />
-    <demonyms />
-    <description />
+    <parts>
+        <part language="old-english" type="adjective">brad</part>
+        <part language="old-english" type="noun">ford</part>
+    </parts>
+    <demonyms>
+        <demonym>Bradfordian</demonym>
+    </demonyms>
+    <description>
+        <p>The name [lqm]Bradford[rqm] is from the Old English words <old-english>brad</old-english>, meaning [lqm]broad[rqm], and <old-english>ford</old-english>, with the same meaning in Modern English. It refers to a crossing of the <river-name>Bradford Beck</river-name>.</p>
+    </description>
     <timeline>
+        <item year="1086 A.D." references="1, 2">Bradeford</item>
         <item year="2000 A.D.">Bradford</item>
     </timeline>
-    <references />
+    <references>
+        <reference type="website" key="1">
+            <url>https://en.wikipedia.org/wiki/Bradford</url>
+            <accessed-on>2025.06.22</accessed-on>
+        </reference>
+        <reference type="website" key="2">
+            <url>https://opendomesday.org/place/SE1633/bradford/</url>
+            <accessed-on>2025.06.22</accessed-on>
+        </reference>
+    </references>
 </place>

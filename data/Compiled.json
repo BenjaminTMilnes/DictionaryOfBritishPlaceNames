@@ -487,10 +487,31 @@
                     "Text": "Bradford"
                 }
             ],
-            "Parts": [],
-            "Demonyms": [],
-            "Description": "",
+            "Parts": [
+                {
+                    "Language": "old-english",
+                    "Text": "brad",
+                    "Type": "adjective"
+                },
+                {
+                    "Language": "old-english",
+                    "Text": "ford",
+                    "Type": "noun"
+                }
+            ],
+            "Demonyms": [
+                {
+                    "Text": "Bradfordian"
+                }
+            ],
+            "Description": "<p>The name \u2018Bradford\u2019 is from the Old English words <old-english>brad</old-english>, meaning \u2018broad\u2019, and <old-english>ford</old-english>, with the same meaning in Modern English. It refers to a crossing of the <river-name>Bradford Beck</river-name>.</p>",
             "Timeline": [
+                {
+                    "Year": "1086 A.D.",
+                    "Text": "Bradeford",
+                    "Where": "",
+                    "Reference": "1, 2"
+                },
                 {
                     "Year": "2000 A.D.",
                     "Text": "Bradford",
@@ -498,7 +519,18 @@
                     "Reference": null
                 }
             ],
-            "References": []
+            "References": [
+                {
+                    "Type": "website",
+                    "URL": "https://en.wikipedia.org/wiki/Bradford",
+                    "AccessedOn": "2025.06.22"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://opendomesday.org/place/SE1633/bradford/",
+                    "AccessedOn": "2025.06.22"
+                }
+            ]
         },
         {
             "Coordinates": {
