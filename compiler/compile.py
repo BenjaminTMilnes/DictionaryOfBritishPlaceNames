@@ -321,7 +321,10 @@ class Compiler(object):
 
         places = [self.compilePlaceFromXML(filePath, abbreviations) for filePath in placeXMLFilePaths]
 
-        data = {"Places": places}
+        data = {
+            "Abbreviations": abbreviations,
+            "Places": places
+        }
 
         print(data)
 

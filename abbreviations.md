@@ -2,10 +2,11 @@ ME - Modern English
 MS - Modern Scots
 MSG - Modern Scottish Gaelic
 MW - Modern Welsh
-MI - Modern Irish
+MIG - Modern Irish Gaelic
 MidE - Middle English
 MidW - Middle Welsh
 OE - Old English
 OW - Old Welsh
-OB - Old British, Brittonic
+AB - Ancient British (Brittonic)
 L - Latin
+G - Greek

@@ -1,4 +1,54 @@
 {
+    "Abbreviations": {
+        "ME": {
+            "Name": "Modern English",
+            "Abbreviation": "ME"
+        },
+        "MS": {
+            "Name": "Modern Scots",
+            "Abbreviation": "MS"
+        },
+        "MSG": {
+            "Name": "Modern Scottish Gaelic",
+            "Abbreviation": "MSG"
+        },
+        "MW": {
+            "Name": "Modern Welsh",
+            "Abbreviation": "MW"
+        },
+        "MIG": {
+            "Name": "Modern Irish Gaelic",
+            "Abbreviation": "MIG"
+        },
+        "MidE": {
+            "Name": "Middle English",
+            "Abbreviation": "MidE"
+        },
+        "MidW": {
+            "Name": "Middle Welsh",
+            "Abbreviation": "MidW"
+        },
+        "OE": {
+            "Name": "Old English",
+            "Abbreviation": "OE"
+        },
+        "OW": {
+            "Name": "Old Welsh",
+            "Abbreviation": "OW"
+        },
+        "AB": {
+            "Name": "Ancient British (Brittonic)",
+            "Abbreviation": "AB"
+        },
+        "L": {
+            "Name": "Latin",
+            "Abbreviation": "L"
+        },
+        "G": {
+            "Name": "Greek",
+            "Abbreviation": "G"
+        }
+    },
     "Places": [
         {
             "URLReference": "basildon",
