@@ -131,7 +131,7 @@
                     "Year": "1086 A.D.",
                     "Text": "Basingestoches",
                     "Where": "The Domesday Book",
-                    "Reference": "1"
+                    "Reference": "1, 2"
                 },
                 {
                     "Year": "2000 A.D.",
@@ -145,6 +145,11 @@
                     "Type": "website",
                     "URL": "https://en.wikipedia.org/wiki/Basingstoke",
                     "AccessedOn": "2024.08.08"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://opendomesday.org/place/SU6351/basingstoke/",
+                    "AccessedOn": "2025.06.22"
                 }
             ]
         },
@@ -179,7 +184,7 @@
                 }
             ],
             "Demonyms": [],
-            "Description": "<p>The name 'Birmingham' is from Old English <oe>Beormingah\u0101m</oe>, meaning the home or settlement of the <oe>Beormingas</oe> \u2013 a clan whose name literally means 'Beorma's people'. <sup>[1]</sup></p>",
+            "Description": "<p>The name \u2018Birmingham\u2019 is from Old English <old-english>Beormingah\u0101m</old-english>, meaning the home or settlement of the <old-english>Beormingas</old-english> \u2013 a clan whose name literally means \u2018Beorma's people\u2019. <sup>[1]</sup></p>",
             "Timeline": [
                 {
                     "Year": "~600s A.D.",
@@ -223,8 +228,12 @@
                 }
             ],
             "Parts": [],
-            "Demonyms": [],
-            "Description": "",
+            "Demonyms": [
+                {
+                    "Text": "Blackburnian"
+                }
+            ],
+            "Description": "<p>Probably a reference to the <river-name>River Blakewater</river-name>, which runs through the town. \u2018Blakewater\u2019 either means \u2018black water\u2019, coming from Old English <old-english>bl\u00e6c</old-english>, or \u2018clear water\u2019.</p>",
             "Timeline": [
                 {
                     "Year": "1086 A.D.",
@@ -256,6 +265,11 @@
                     "Type": "website",
                     "URL": "https://en.wikipedia.org/wiki/Blackburn",
                     "AccessedOn": "2024.07.23"
+                },
+                {
+                    "Type": "website",
+                    "URL": "https://opendomesday.org/place/SD6828/blackburn/",
+                    "AccessedOn": "2025.06.22"
                 }
             ]
         },

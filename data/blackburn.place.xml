@@ -4,8 +4,12 @@
         <name language="modern-english">Blackburn</name>
     </names>
     <parts />
-    <demonyms />
-    <description />
+    <demonyms>
+        <demonym>Blackburnian</demonym>
+    </demonyms>
+    <description>
+        <p>Probably a reference to the <river-name>River Blakewater</river-name>, which runs through the town. [lqm]Blakewater[rqm] either means [lqm]black water[rqm], coming from Old English <old-english>bl[ae]c</old-english>, or [lqm]clear water[rqm].</p>
+    </description>
     <timeline>
         <item year="1086 A.D." where="The Domesday Book" references="1">Blacheburne</item>
         <item year="1086 A.D." where="The Domesday Book" references="1">Blacheburn</item>
@@ -16,6 +20,10 @@
         <reference type="website" key="1">
             <url>https://en.wikipedia.org/wiki/Blackburn</url>
             <accessed-on>2024.07.23</accessed-on>
+        </reference>
+        <reference type="website" key="2">
+            <url>https://opendomesday.org/place/SD6828/blackburn/</url>
+            <accessed-on>2025.06.22</accessed-on>
         </reference>
     </references>
 </place>
