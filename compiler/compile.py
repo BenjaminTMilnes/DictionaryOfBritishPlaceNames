@@ -285,6 +285,13 @@ class Compiler(object):
 
             place["Parts"].append(part)
 
+        for e1 in tree.find("demonyms").findall("demonym"):
+            demonym = {
+                "Text": e1.text
+            }
+
+            place["Demonyms"].append(demonym)
+
         for e1 in tree.find("timeline").findall("item"):
             item = {
                 "Year": e1.get("year"),

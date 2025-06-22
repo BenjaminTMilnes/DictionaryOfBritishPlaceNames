@@ -524,7 +524,11 @@
                     "Text": "Caerdyf"
                 }
             ],
-            "Demonyms": [],
+            "Demonyms": [
+                {
+                    "Text": "Cardiffian"
+                }
+            ],
             "Description": "<p>from Welsh <welsh>caer</welsh> meaning 'fort', and <welsh>-dyf</welsh> &endash; a form of <welsh>Taf</welsh>, the name of the river that flows by Cardiff Castle</p>",
             "Parts": [],
             "Timeline": [],
@@ -625,7 +629,11 @@
                     "Text": "Coventry"
                 }
             ],
-            "Demonyms": [],
+            "Demonyms": [
+                {
+                    "Text": "Coventrian"
+                }
+            ],
             "Description": "<p>there are several theories as to what the name means; it's thought that the most likely meaning is 'Coffa's tree' &endash; a tree planted by or named after a person called 'Coffa', which may have marked the centre or boundary of a settlement</p>            <p>an alternative theory is that the name comes from 'Coventre' &endash; from coven, an old variation of 'convent', and tre, a Celtic word meaning 'town'</p>",
             "Parts": [],
             "Timeline": [
@@ -739,7 +747,11 @@
                     "Text": "Caeredin"
                 }
             ],
-            "Demonyms": [],
+            "Demonyms": [
+                {
+                    "Text": "Edinburgher"
+                }
+            ],
             "Description": "<p>from Cumbric <cumbric>Eidyn</cumbric>, of unknown meaning, and Old English <oe>burh</oe>, meaning 'fortified settlement'</p>",
             "Parts": [],
             "Timeline": [],
@@ -846,7 +858,11 @@
                     "Text": "Glaschu"
                 }
             ],
-            "Demonyms": [],
+            "Demonyms": [
+                {
+                    "Text": "Glaswegian"
+                }
+            ],
             "Description": "<p>from Brittonic <ob>glas</ob> meaning 'grey-green', 'grey-blue' and <ob>*c\u00f6\u00fc</ob> meaning 'hollow', so the name means 'green-hollow'</p>",
             "Parts": [],
             "Timeline": [
@@ -1242,7 +1258,11 @@
                     "Text": "Manceinion"
                 }
             ],
-            "Demonyms": [],
+            "Demonyms": [
+                {
+                    "Text": "Mancunian"
+                }
+            ],
             "Description": "<p>from Brittonic <ob>*mamm-</ob> meaning 'breast', in reference to a 'breast-like hill', and Old English <oe>-ceaster</oe>, meaning 'fort', 'fortified town'</p>",
             "Parts": [],
             "Timeline": [],
@@ -1742,7 +1762,11 @@
                     "Text": "Sheffield"
                 }
             ],
-            "Demonyms": [],
+            "Demonyms": [
+                {
+                    "Text": "Sheffielder"
+                }
+            ],
             "Description": "",
             "Parts": [],
             "Timeline": [
