@@ -9,6 +9,7 @@
                     "Text": "Basildon"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>possibly from the Anglo-Saxon name <oe>Boerthal</oe> and the word <oe>dun</oe>, meaning 'hill'</p>",
             "Parts": [],
             "Timeline": [
@@ -46,6 +47,7 @@
                     "Text": "Embasinga stoc\u00e6"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>meaning 'the settlement of Basa's people'</p>",
             "Parts": [],
             "Timeline": [
@@ -89,6 +91,7 @@
                     "Text": "Beormingah\u0101m"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>The name 'Birmingham' is from Old English <oe>Beormingah\u0101m</oe>, meaning the home or settlement of the <oe>Beormingas</oe> &endash; a clan whose name literally means 'Beorma's people'. <sup>[1]</sup></p>",
             "Parts": [
                 {
@@ -149,6 +152,7 @@
                     "Text": "Blackburn"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -194,6 +198,7 @@
                     "Text": "Blackpool"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>The area was originally known as 'le pull', after a local stream. The stream ran through peatlands, which discoloured the water, so the name became 'Black Poole'.</p>",
             "Parts": [],
             "Timeline": [
@@ -243,6 +248,7 @@
                     "Text": "Bothltun"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -306,6 +312,7 @@
                     "Text": "Bournemouth"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>burna</oe>, meaning 'stream', and <oe>mu\u00f0a</oe>, meaning 'the mouth of a river or estuary'</p>",
             "Parts": [],
             "Timeline": [
@@ -345,6 +352,7 @@
                     "Text": "Bradford"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -366,6 +374,7 @@
                     "Text": "Brighton"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>The name 'Brighton' comes from Old English <oe>Beorthelm</oe>, an Anglo-Saxon personal name, and <oe>t\u016bn</oe> meaning 'town'. <sup>[1]</sup></p>",
             "Parts": [
                 {
@@ -441,6 +450,7 @@
                     "Text": "Brycgstow"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>The name 'Bristol' is from Old English <oe>Brycgstow</oe>, meaning 'place at the bridge'. <sup>[1]</sup></p>",
             "Parts": [],
             "Timeline": [
@@ -472,6 +482,7 @@
                     "Text": "Grantebrycge"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>Grantebrycge</oe>, 'Granta-bridge', later influenced by the word 'Camboricum', meaning 'passage' or 'ford' in a town or settlement</p>",
             "Parts": [],
             "Timeline": [
@@ -513,6 +524,7 @@
                     "Text": "Caerdyf"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Welsh <welsh>caer</welsh> meaning 'fort', and <welsh>-dyf</welsh> &endash; a form of <welsh>Taf</welsh>, the name of the river that flows by Cardiff Castle</p>",
             "Parts": [],
             "Timeline": [],
@@ -533,6 +545,7 @@
                     "Text": "Cheltenham"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>likely from Ancient British <ob>cilta</ob>, meaning 'steep hill', and Old English <oe>ham</oe>, meaning 'settlement'</p>",
             "Parts": [],
             "Timeline": [
@@ -566,6 +579,7 @@
                     "Text": "Colchester"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -611,6 +625,7 @@
                     "Text": "Coventry"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>there are several theories as to what the name means; it's thought that the most likely meaning is 'Coffa's tree' &endash; a tree planted by or named after a person called 'Coffa', which may have marked the centre or boundary of a settlement</p>            <p>an alternative theory is that the name comes from 'Coventre' &endash; from coven, an old variation of 'convent', and tre, a Celtic word meaning 'town'</p>",
             "Parts": [],
             "Timeline": [
@@ -638,6 +653,7 @@
                     "Text": "Derby"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>There are various influences on the name 'Derby'. It comes partly from Latin <latin>Derventio</latin>, the name of a Roman fort situated on the Derwent, and partly from Old English <oe>Deoraby</oe>, meaning 'village of the deer'.</p>",
             "Parts": [],
             "Timeline": [
@@ -683,6 +699,7 @@
                     "Text": "Doncaster"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>Named after the River Don. 'Don' comes from Ancient British <ob>d\u0101n\u0101</ob>, meaning 'water'. '-caster' is from Old English <oe>-ceastre</oe>.</p>",
             "Parts": [],
             "Timeline": [
@@ -722,6 +739,7 @@
                     "Text": "Caeredin"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Cumbric <cumbric>Eidyn</cumbric>, of unknown meaning, and Old English <oe>burh</oe>, meaning 'fortified settlement'</p>",
             "Parts": [],
             "Timeline": [],
@@ -746,6 +764,7 @@
                     "Text": "Escanceaster"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>named after the river Exe, with Old English <oe>-ceaster</oe></p>",
             "Parts": [],
             "Timeline": [
@@ -779,6 +798,7 @@
                     "Text": "Gateshead"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>literally 'goat's head' &endash; as in headland or hill where wild goats can be found</p>",
             "Parts": [],
             "Timeline": [
@@ -826,6 +846,7 @@
                     "Text": "Glaschu"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Brittonic <ob>glas</ob> meaning 'grey-green', 'grey-blue' and <ob>*c\u00f6\u00fc</ob> meaning 'hollow', so the name means 'green-hollow'</p>",
             "Parts": [],
             "Timeline": [
@@ -863,6 +884,7 @@
                     "Text": "Glevum"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Latin <latin>Glevum</latin> and Old English <oe>-ceastre</oe></p>",
             "Parts": [],
             "Timeline": [
@@ -896,6 +918,7 @@
                     "Text": "Huddersfield"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -945,6 +968,7 @@
                     "Text": "Gipeswic"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -984,6 +1008,7 @@
                     "Text": "Kingswood"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>the meaning is unchanged from the original; 'King's Wood' &endash; originally a royal hunting estate</p>",
             "Parts": [],
             "Timeline": [
@@ -1015,6 +1040,7 @@
                     "Text": "Lloed"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -1068,6 +1094,7 @@
                     "Text": "Legorensis civitatis"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from ligore, the name of a people, who were themselves named after the River Ligor (now the River Soar), and Old English <oe>ceaster</oe>, meaning 'fort', 'fortified town'</p>",
             "Parts": [],
             "Timeline": [
@@ -1117,6 +1144,7 @@
                     "Text": "Lerpwl"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>lifer</oe> meaning 'thick water' or 'muddy water', and <oe>p\u014dl</oe> meaning 'pool' or 'creek'</p>",
             "Parts": [],
             "Timeline": [
@@ -1160,6 +1188,7 @@
                     "Text": "Lygetun"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>Lygetun</oe>, meaning 'town on the River Lea'</p>",
             "Parts": [],
             "Timeline": [
@@ -1213,6 +1242,7 @@
                     "Text": "Manceinion"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Brittonic <ob>*mamm-</ob> meaning 'breast', in reference to a 'breast-like hill', and Old English <oe>-ceaster</oe>, meaning 'fort', 'fortified town'</p>",
             "Parts": [],
             "Timeline": [],
@@ -1233,6 +1263,7 @@
                     "Text": "Newcastle"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>The town was named <l>Novum Castellum</l> or <me>New Castle</me> after Robert Curthose, son of William the Conqueror, constructed a wooden castle there in 1080. Before that it was known as <oe>Munucceaster</oe>.</p>",
             "Parts": [],
             "Timeline": [
@@ -1282,6 +1313,7 @@
                     "Text": "Nor\u00f0wic"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>Nor\u00f0wic</oe>, meaning 'north farm'</p>",
             "Parts": [],
             "Timeline": [
@@ -1323,6 +1355,7 @@
                     "Text": "Na Tithe Uaimh"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Snotingaham, meaning the home or settlement of the Snotingas &endash; a clan whose name literally means 'Snot's people' <sup>[1]</sup></p>",
             "Parts": [],
             "Timeline": [
@@ -1378,6 +1411,7 @@
                     "Text": "Ealdham"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>eald</oe>, meaning 'old', and <oe>ham</oe>, meaning a house, dwelling, or settlement</p>",
             "Parts": [],
             "Timeline": [
@@ -1409,6 +1443,7 @@
                     "Text": "Oxnaford"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>oxa</oe>, meaning 'ox', and <oe>ford</oe>, meaning 'ford'</p>",
             "Parts": [],
             "Timeline": [
@@ -1446,6 +1481,7 @@
                     "Text": "Medeshamstede"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>The original name of Peterborough was Medeshamstede &endash; an Old English name meaning either 'the village of Mede' or 'the village in the meadows'.</p>",
             "Parts": [],
             "Timeline": [
@@ -1514,6 +1550,7 @@
                     "Text": "Plymouth"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -1559,6 +1596,7 @@
                     "Text": "Poole"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>pol</oe>, meaning 'pool' or 'creek'</p>",
             "Parts": [],
             "Timeline": [
@@ -1596,6 +1634,7 @@
                     "Text": "Portesmu\u00f0a"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>Portesmu\u00f0a</oe>, which is from <oe>port</oe>, meaning 'a haven', and <oe>mu\u00f0a</oe>, meaning 'the mouth of a river or estuary'</p>",
             "Parts": [],
             "Timeline": [
@@ -1633,6 +1672,7 @@
                     "Text": "Readingas"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>Readingas</oe>, which likely means 'Reada's people'</p>",
             "Parts": [],
             "Timeline": [
@@ -1674,6 +1714,7 @@
                     "Text": "Sorbiod\u016bnum"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>The complete etymology is unknown. By Roman times, it was known as <latin>Sorbiod\u016bnum</latin>. To the Anglo-Saxons, it was <oe>Searoburg</oe>. In Middle English, it was Sarisberie.</p>",
             "Parts": [],
             "Timeline": [
@@ -1701,6 +1742,7 @@
                     "Text": "Sheffield"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -1722,6 +1764,7 @@
                     "Text": "Slough"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -1788,6 +1831,7 @@
                     "Text": "Clausentum"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -1844,6 +1888,7 @@
                     "Text": "Southend-on-Sea"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -1889,6 +1934,7 @@
                     "Text": "Stockport"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>stoc</oe>, meaning 'a hamlet', and <oe>port</oe>, meaning 'a market place'</p>",
             "Parts": [],
             "Timeline": [
@@ -1922,6 +1968,7 @@
                     "Text": "Stoke-on-Trent"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>Ultimately from Old English <oe>stoc</oe>, which just meant 'place'.</p>",
             "Parts": [],
             "Timeline": [],
@@ -1942,6 +1989,7 @@
                     "Text": "Sunderland"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [],
@@ -1956,6 +2004,7 @@
                     "Text": "Swindon"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>swine</oe>, meaning 'swine', 'pig', and <oe>dun</oe>, meaning 'hill'</p>",
             "Parts": [],
             "Timeline": [
@@ -1989,6 +2038,7 @@
                     "Text": "Wakefield"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -2010,6 +2060,7 @@
                     "Text": "Warrington"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -2043,6 +2094,7 @@
                     "Text": "Watford"
                 }
             ],
+            "Demonyms": [],
             "Description": "",
             "Parts": [],
             "Timeline": [
@@ -2088,6 +2140,7 @@
                     "Text": "\u01bfintanceastre"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>The name 'Winchester' is from Old English <oe>\u01bfintanceastre</oe>, which is from <brittonic>went\u0101</brittonic>, the Brittonic name for the town, and Old English <oe>-ceastre</oe>, meaning 'fort', 'fortified town'.</p>",
             "Parts": [],
             "Timeline": [
@@ -2144,6 +2197,7 @@
                     "Text": "Wolverhampton"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>Most likely from Old English <oe>Wulfr\u016bneh\u0113ant\u016bn</oe>, which is from <oe>Wulfr\u016bn</oe>, a personal name, <oe>h\u0113an</oe>, meaning 'high', and <oe>t\u016bn</oe>, meaning 'enclosure' or 'farm'.</p>",
             "Parts": [],
             "Timeline": [
@@ -2188,6 +2242,7 @@
                     "Text": "Worthing"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>from Old English <oe>Wyrtingas</oe>, of uncertain meaning</p>",
             "Parts": [],
             "Timeline": [
@@ -2247,6 +2302,7 @@
                     "Text": "Eoforwic"
                 }
             ],
+            "Demonyms": [],
             "Description": "<p>From Brittonic <ob>Ebur\u0101kon</ob>, meaning 'place of the yew trees', which is in turn from <ob>eburos</ob>, 'yew tree', and <ob>-\u0101kon</ob>, meaning 'place of'. This became <latin>Eboracum</latin> or <latin>Eburacum</latin> with the Romans, and then <oe>Eoforwic</oe> with the Anglo-Saxons.</p>",
             "Parts": [],
             "Timeline": [
