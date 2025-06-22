@@ -237,7 +237,72 @@ class Compiler(object):
     def compilePlaceFromXML(self, filePath, abbreviations):
         tree = ElementTree.parse(filePath)
 
-        place = {}
+        place = {
+            "URLReference": tree.find("names").find("name").text.lower(),
+            "PrimaryName": tree.find("names").find("name").text,
+            "Names": [],
+            #"Demonyms": [],
+            "Description": "",
+            "Parts": [],
+            "Timeline": [],
+            "References": []
+        }
+
+        if tree.find("description") != None:
+            description = str(ElementTree.tostring(tree.find("description"), encoding="unicode"))
+
+            description = description.replace("b\"", "")
+            description = description.replace("\"", "")
+            description = description.replace("\n", "")
+            description = description.replace("<d>", "")
+            description = description.replace("</d>", "")
+            description = description.replace("<description>", "")
+            description = description.replace("</description>", "")
+            description = description.replace("<description />", "")
+            
+            description = description.replace("[--]", "&endash;")
+
+            description = re.sub(r"^\s+", "", description)
+            description = re.sub(r"\s+$", "", description)
+            description = re.sub(r"\s+</p>", "</p>", description)
+
+            place["Description"] = description
+
+        for e1 in tree.find("names").findall("name"):
+            name = {
+                "Language": e1.get("language"),
+                "Text": e1.text
+            }
+
+            place["Names"].append(name)
+
+        for e1 in tree.find("parts").findall("part"):
+            part = {
+                "Language": e1.get("language"),
+                "Text": e1.text,
+                "Type": e1.get("type")
+            }
+
+            place["Parts"].append(part)
+
+        for e1 in tree.find("timeline").findall("item"):
+            item = {
+                "Year": e1.get("year"),
+                "Text": e1.text,
+                "Where": e1.get("where", ""),
+                "Reference": e1.get("references")
+            }
+
+            place["Timeline"].append(item)
+
+        for e1 in tree.find("references").findall("reference"):
+            reference = {
+                "Type": e1.get("type"),
+                "URL": e1.find("url").text,
+                "AccessedOn": e1.find("accessed-on").text
+            }
+
+            place["References"].append(reference)
 
         return place
 

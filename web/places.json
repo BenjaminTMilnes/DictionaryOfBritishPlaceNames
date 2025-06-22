@@ -5,7 +5,7 @@
             "PrimaryName": "Basildon",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Basildon"
                 }
             ],
@@ -38,11 +38,11 @@
             "PrimaryName": "Basingstoke",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Basingstoke"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Embasinga stoc\u00e6"
                 }
             ],
@@ -81,28 +81,28 @@
             "PrimaryName": "Birmingham",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Birmingham"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Beormingah\u0101m"
                 }
             ],
-            "Description": "<p>The name 'Birmingham' is from Old English <oe>Beormingah\u0101m</oe>, meaning the home or settlement of the <oe>Beormingas</oe> \u2013 a clan whose name literally means 'Beorma's people'. <sup>[1]</sup></p>",
+            "Description": "<p>The name 'Birmingham' is from Old English <oe>Beormingah\u0101m</oe>, meaning the home or settlement of the <oe>Beormingas</oe> &endash; a clan whose name literally means 'Beorma's people'. <sup>[1]</sup></p>",
             "Parts": [
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Beorma",
-                    "Type": "personal name"
+                    "Type": "personal-name"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "inga",
                     "Type": "suffix"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "ham",
                     "Type": "suffix"
                 }
@@ -145,7 +145,7 @@
             "PrimaryName": "Blackburn",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Blackburn"
                 }
             ],
@@ -190,7 +190,7 @@
             "PrimaryName": "Blackpool",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Blackpool"
                 }
             ],
@@ -235,11 +235,11 @@
             "PrimaryName": "Bolton",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Bolton"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Bothltun"
                 }
             ],
@@ -302,7 +302,7 @@
             "PrimaryName": "Bournemouth",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Bournemouth"
                 }
             ],
@@ -341,7 +341,7 @@
             "PrimaryName": "Bradford",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Bradford"
                 }
             ],
@@ -362,19 +362,19 @@
             "PrimaryName": "Brighton",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Brighton"
                 }
             ],
             "Description": "<p>The name 'Brighton' comes from Old English <oe>Beorthelm</oe>, an Anglo-Saxon personal name, and <oe>t\u016bn</oe> meaning 'town'. <sup>[1]</sup></p>",
             "Parts": [
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Beorthelm",
-                    "Type": "personal name"
+                    "Type": "personal-name"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "t\u016bn",
                     "Type": "suffix"
                 }
@@ -429,15 +429,15 @@
             "PrimaryName": "Bristol",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Bristol"
                 },
                 {
-                    "Language": "MW",
+                    "Language": "modern-welsh",
                     "Text": "Bryste"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Brycgstow"
                 }
             ],
@@ -464,11 +464,11 @@
             "PrimaryName": "Cambridge",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Cambridge"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Grantebrycge"
                 }
             ],
@@ -501,15 +501,19 @@
             "PrimaryName": "Cardiff",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Cardiff"
                 },
                 {
-                    "Language": "MW",
+                    "Language": "modern-welsh",
                     "Text": "Caerdydd"
+                },
+                {
+                    "Language": "middle-welsh",
+                    "Text": "Caerdyf"
                 }
             ],
-            "Description": "<p>MidW: Caerdyf</p><p>from Welsh <welsh>caer</welsh> meaning 'fort', and <welsh>-dyf</welsh> \u2013 a form of <welsh>Taf</welsh>, the name of the river that flows by Cardiff Castle</p>",
+            "Description": "<p>from Welsh <welsh>caer</welsh> meaning 'fort', and <welsh>-dyf</welsh> &endash; a form of <welsh>Taf</welsh>, the name of the river that flows by Cardiff Castle</p>",
             "Parts": [],
             "Timeline": [],
             "References": [
@@ -518,15 +522,14 @@
                     "URL": "https://en.wikipedia.org/wiki/Cardiff",
                     "AccessedOn": "2021.03.27"
                 }
-            ],
-            "Demonym": "Cardiffian"
+            ]
         },
         {
             "URLReference": "cheltenham",
             "PrimaryName": "Cheltenham",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Cheltenham"
                 }
             ],
@@ -559,7 +562,7 @@
             "PrimaryName": "Colchester",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Colchester"
                 }
             ],
@@ -604,11 +607,11 @@
             "PrimaryName": "Coventry",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Coventry"
                 }
             ],
-            "Description": "<p>there are several theories as to what the name means; it's thought that the most likely meaning is 'Coffa's tree' \u2013 a tree planted by or named after a person called 'Coffa', which may have marked the centre or boundary of a settlement</p><p>an alternative theory is that the name comes from 'Coventre' \u2013 from coven, an old variation of 'convent', and tre, a Celtic word meaning 'town'</p>",
+            "Description": "<p>there are several theories as to what the name means; it's thought that the most likely meaning is 'Coffa's tree' &endash; a tree planted by or named after a person called 'Coffa', which may have marked the centre or boundary of a settlement</p>            <p>an alternative theory is that the name comes from 'Coventre' &endash; from coven, an old variation of 'convent', and tre, a Celtic word meaning 'town'</p>",
             "Parts": [],
             "Timeline": [
                 {
@@ -624,15 +627,14 @@
                     "URL": "https://en.wikipedia.org/wiki/History_of_Coventry",
                     "AccessedOn": "2021.03.28"
                 }
-            ],
-            "Demonym": "Coventrian"
+            ]
         },
         {
             "URLReference": "derby",
             "PrimaryName": "Derby",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Derby"
                 }
             ],
@@ -677,7 +679,7 @@
             "PrimaryName": "Doncaster",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Doncaster"
                 }
             ],
@@ -704,19 +706,19 @@
             "PrimaryName": "Edinburgh",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Edinburgh"
                 },
                 {
-                    "Language": "MS",
+                    "Language": "modern-scots",
                     "Text": "Edinburgh"
                 },
                 {
-                    "Language": "MSG",
+                    "Language": "modern-scottish-gaelic",
                     "Text": "D\u00f9n \u00c8ideann"
                 },
                 {
-                    "Language": "MW",
+                    "Language": "modern-welsh",
                     "Text": "Caeredin"
                 }
             ],
@@ -729,19 +731,18 @@
                     "URL": "https://en.wikipedia.org/wiki/Edinburgh",
                     "AccessedOn": "2021.03.27"
                 }
-            ],
-            "Demonym": "Edinburgher"
+            ]
         },
         {
             "URLReference": "exeter",
             "PrimaryName": "Exeter",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Exeter"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Escanceaster"
                 }
             ],
@@ -774,11 +775,11 @@
             "PrimaryName": "Gateshead",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Gateshead"
                 }
             ],
-            "Description": "<p>literally 'goat's head' \u2013 as in headland or hill where wild goats can be found</p>",
+            "Description": "<p>literally 'goat's head' &endash; as in headland or hill where wild goats can be found</p>",
             "Parts": [],
             "Timeline": [
                 {
@@ -813,15 +814,15 @@
             "PrimaryName": "Glasgow",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Glasgow"
                 },
                 {
-                    "Language": "MS",
+                    "Language": "modern-scots",
                     "Text": "Glesca, Glesga"
                 },
                 {
-                    "Language": "MSG",
+                    "Language": "modern-scottish-gaelic",
                     "Text": "Glaschu"
                 }
             ],
@@ -847,19 +848,18 @@
                     "URL": "https://en.wikipedia.org/wiki/Glasgow",
                     "AccessedOn": "2021.03.27"
                 }
-            ],
-            "Demonym": "Glaswegian"
+            ]
         },
         {
             "URLReference": "gloucester",
             "PrimaryName": "Gloucester",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Gloucester"
                 },
                 {
-                    "Language": "L",
+                    "Language": "latin",
                     "Text": "Glevum"
                 }
             ],
@@ -892,7 +892,7 @@
             "PrimaryName": "Huddersfield",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Huddersfield"
                 }
             ],
@@ -937,11 +937,11 @@
             "PrimaryName": "Ipswich",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Ipswich"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Gipeswic"
                 }
             ],
@@ -980,11 +980,11 @@
             "PrimaryName": "Kingswood",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Kingswood"
                 }
             ],
-            "Description": "<p>the meaning is unchanged from the original; 'King's Wood' \u2013 originally a royal hunting estate</p>",
+            "Description": "<p>the meaning is unchanged from the original; 'King's Wood' &endash; originally a royal hunting estate</p>",
             "Parts": [],
             "Timeline": [
                 {
@@ -1007,11 +1007,11 @@
             "PrimaryName": "Leeds",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Leeds"
                 },
                 {
-                    "Language": "MW",
+                    "Language": "modern-welsh",
                     "Text": "Lloed"
                 }
             ],
@@ -1056,15 +1056,15 @@
             "PrimaryName": "Leicester",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Leicester"
                 },
                 {
-                    "Language": "MW",
+                    "Language": "modern-welsh",
                     "Text": "Caerl\u0177r"
                 },
                 {
-                    "Language": "L",
+                    "Language": "latin",
                     "Text": "Legorensis civitatis"
                 }
             ],
@@ -1109,11 +1109,11 @@
             "PrimaryName": "Liverpool",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Liverpool"
                 },
                 {
-                    "Language": "MW",
+                    "Language": "modern-welsh",
                     "Text": "Lerpwl"
                 }
             ],
@@ -1152,11 +1152,11 @@
             "PrimaryName": "Luton",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Luton"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Lygetun"
                 }
             ],
@@ -1201,15 +1201,15 @@
             "PrimaryName": "Manchester",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Manchester"
                 },
                 {
-                    "Language": "L",
+                    "Language": "latin",
                     "Text": "Mamucium, Mancunio"
                 },
                 {
-                    "Language": "MW",
+                    "Language": "modern-welsh",
                     "Text": "Manceinion"
                 }
             ],
@@ -1222,15 +1222,14 @@
                     "URL": "https://en.wikipedia.org/wiki/Manchester",
                     "AccessedOn": "2021.03.27"
                 }
-            ],
-            "Demonym": "Mancunian"
+            ]
         },
         {
             "URLReference": "newcastle",
             "PrimaryName": "Newcastle",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Newcastle"
                 }
             ],
@@ -1275,11 +1274,11 @@
             "PrimaryName": "Norwich",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Norwich"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Nor\u00f0wic"
                 }
             ],
@@ -1312,19 +1311,19 @@
             "PrimaryName": "Nottingham",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Nottingham"
                 },
                 {
-                    "Language": "MW",
+                    "Language": "modern-welsh",
                     "Text": "Y T\u0177 Ogofog"
                 },
                 {
-                    "Language": "MI",
+                    "Language": "",
                     "Text": "Na Tithe Uaimh"
                 }
             ],
-            "Description": "<p>from Snotingaham, meaning the home or settlement of the Snotingas \u2013 a clan whose name literally means 'Snot's people' <sup>[1]</sup></p>",
+            "Description": "<p>from Snotingaham, meaning the home or settlement of the Snotingas &endash; a clan whose name literally means 'Snot's people' <sup>[1]</sup></p>",
             "Parts": [],
             "Timeline": [
                 {
@@ -1371,11 +1370,11 @@
             "PrimaryName": "Oldham",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Oldham"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Ealdham"
                 }
             ],
@@ -1402,11 +1401,11 @@
             "PrimaryName": "Oxford",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Oxford"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Oxnaford"
                 }
             ],
@@ -1439,15 +1438,15 @@
             "PrimaryName": "Peterborough",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Peterborough"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Medeshamstede"
                 }
             ],
-            "Description": "<p>The original name of Peterborough was Medeshamstede \u2013 an Old English name meaning either 'the village of Mede' or 'the village in the meadows'.</p>",
+            "Description": "<p>The original name of Peterborough was Medeshamstede &endash; an Old English name meaning either 'the village of Mede' or 'the village in the meadows'.</p>",
             "Parts": [],
             "Timeline": [
                 {
@@ -1511,7 +1510,7 @@
             "PrimaryName": "Plymouth",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Plymouth"
                 }
             ],
@@ -1556,7 +1555,7 @@
             "PrimaryName": "Poole",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Poole"
                 }
             ],
@@ -1589,11 +1588,11 @@
             "PrimaryName": "Portsmouth",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Portsmouth"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Portesmu\u00f0a"
                 }
             ],
@@ -1626,11 +1625,11 @@
             "PrimaryName": "Reading",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Reading"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Readingas"
                 }
             ],
@@ -1663,15 +1662,15 @@
             "PrimaryName": "Salisbury",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Salisbury"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Searoburg"
                 },
                 {
-                    "Language": "L",
+                    "Language": "latin",
                     "Text": "Sorbiod\u016bnum"
                 }
             ],
@@ -1698,7 +1697,7 @@
             "PrimaryName": "Sheffield",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Sheffield"
                 }
             ],
@@ -1712,15 +1711,14 @@
                     "Reference": null
                 }
             ],
-            "References": [],
-            "Demonym": "Sheffielder"
+            "References": []
         },
         {
             "URLReference": "slough",
             "PrimaryName": "Slough",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Slough"
                 }
             ],
@@ -1782,11 +1780,11 @@
             "PrimaryName": "Southampton",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Southampton"
                 },
                 {
-                    "Language": "L",
+                    "Language": "latin",
                     "Text": "Clausentum"
                 }
             ],
@@ -1842,7 +1840,7 @@
             "PrimaryName": "Southend-on-Sea",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Southend-on-Sea"
                 }
             ],
@@ -1887,7 +1885,7 @@
             "PrimaryName": "Stockport",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Stockport"
                 }
             ],
@@ -1920,7 +1918,7 @@
             "PrimaryName": "Stoke-on-Trent",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Stoke-on-Trent"
                 }
             ],
@@ -1940,7 +1938,7 @@
             "PrimaryName": "Sunderland",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Sunderland"
                 }
             ],
@@ -1954,7 +1952,7 @@
             "PrimaryName": "Swindon",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Swindon"
                 }
             ],
@@ -1987,7 +1985,7 @@
             "PrimaryName": "Wakefield",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Wakefield"
                 }
             ],
@@ -2008,7 +2006,7 @@
             "PrimaryName": "Warrington",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Warrington"
                 }
             ],
@@ -2041,7 +2039,7 @@
             "PrimaryName": "Watford",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Watford"
                 }
             ],
@@ -2074,19 +2072,19 @@
             "PrimaryName": "Winchester",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Winchester"
                 },
                 {
-                    "Language": "L",
+                    "Language": "latin",
                     "Text": "Venta Belgarum"
                 },
                 {
-                    "Language": "MW",
+                    "Language": "modern-welsh",
                     "Text": "Caerwynt"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "\u01bfintanceastre"
                 }
             ],
@@ -2142,7 +2140,7 @@
             "PrimaryName": "Wolverhampton",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Wolverhampton"
                 }
             ],
@@ -2186,7 +2184,7 @@
             "PrimaryName": "Worthing",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "Worthing"
                 }
             ],
@@ -2237,15 +2235,15 @@
             "PrimaryName": "York",
             "Names": [
                 {
-                    "Language": "ME",
+                    "Language": "modern-english",
                     "Text": "York"
                 },
                 {
-                    "Language": "L",
+                    "Language": "latin",
                     "Text": "Eboracum"
                 },
                 {
-                    "Language": "OE",
+                    "Language": "old-english",
                     "Text": "Eoforwic"
                 }
             ],
