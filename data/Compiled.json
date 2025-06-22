@@ -101,9 +101,25 @@
                     "Text": "Embasinga stoc\u00e6"
                 }
             ],
-            "Parts": [],
+            "Parts": [
+                {
+                    "Language": "old-english",
+                    "Text": "Basa",
+                    "Type": "personal-name"
+                },
+                {
+                    "Language": "old-english",
+                    "Text": "inga",
+                    "Type": "suffix"
+                },
+                {
+                    "Language": "old-english",
+                    "Text": "stoc",
+                    "Type": "suffix"
+                }
+            ],
             "Demonyms": [],
-            "Description": "<p>meaning 'the settlement of Basa's people'</p>",
+            "Description": "<p>meaning \u2018the settlement of Basa's people\u2019</p>",
             "Timeline": [
                 {
                     "Year": "990 A.D.",

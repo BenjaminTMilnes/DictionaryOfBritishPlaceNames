@@ -15,6 +15,18 @@
         <p>Demonyms: {{demonyms}}</p>
     </div>
     <div compile="place.Description" class="place-description"></div>
+    <div class="place-parts" ng-show="place.Parts.length > 0">
+        <h3>Parts</h3>
+        <table>
+            <tbody>
+                <tr ng-repeat="part in place.Parts">
+                    <td>{{getLanguage(part.Language)}}</td>
+                    <td>{{part.Type}}</td>
+                    <td>{{part.Text}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
     <div class="place-timeline" ng-show="place.Timeline.length > 0">
         <h3>Timeline</h3>
         <table>

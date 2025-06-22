@@ -4,22 +4,28 @@
         <name language="modern-english">Basingstoke</name>
         <name language="old-english">Embasinga stocæ</name>
     </names>
-    <parts />
+    <parts>
+        <part language="old-english" type="personal-name">Basa</part>
+        <part language="old-english" type="suffix">inga</part>
+        <part language="old-english" type="suffix">stoc</part>
+    </parts>
     <demonyms />
     <description>
-        <d>
-            <p>meaning 'the settlement of Basa's people'</p>
-        </d>
+        <p>meaning [lqm]the settlement of Basa's people[rqm]</p>
     </description>
     <timeline>
         <item year="990 A.D." references="1">Embasinga stocæ</item>
-        <item year="1086 A.D." where="The Domesday Book" references="1">Basingestoches</item>
+        <item year="1086 A.D." where="The Domesday Book" references="1, 2">Basingestoches</item>
         <item year="2000 A.D.">Basingstoke</item>
     </timeline>
     <references>
         <reference type="website" key="1">
             <url>https://en.wikipedia.org/wiki/Basingstoke</url>
             <accessed-on>2024.08.08</accessed-on>
+        </reference>
+        <reference type="website" key="2">
+            <url>https://opendomesday.org/place/SU6351/basingstoke/</url>
+            <accessed-on>2025.06.22</accessed-on>
         </reference>
     </references>
 </place>

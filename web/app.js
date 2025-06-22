@@ -173,6 +173,8 @@ application.controller("PlaceController", ["$scope", "dataService", "$routeParam
 
     dataService.getData().then(function (data) {
         $scope.places = data.Places;
+        $scope.abbreviations = data.Abbreviations;
+
         $scope.place = $scope.places.filter(p => p.URLReference == $routeParams.reference)[0];
 
         var l = $scope.place.Names.filter(n => n.Language == "latin");
@@ -189,5 +191,9 @@ application.controller("PlaceController", ["$scope", "dataService", "$routeParam
 
         $scope.demonyms = $scope.place.Demonyms.map(d => d.Text).join(", ");
     });
+
+    $scope.getLanguage = function (abbreviation) {
+        return $scope.abbreviations(a => a.Name == abbreviation || a.Abbreviation == abbreviation || a.Name.toLowerCase.replace(" ", "-") == abbreviation)[0].Name;
+    }
 
 }]);
